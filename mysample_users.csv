@@ -1,1001 +1,1001 @@
-"","User.ID","Location","Age"
-"14914","33494","st albans, england, united kingdom","NULL"
-"49237","103659","ojai, california, usa","NULL"
-"37659","79342","konya, n/a, turkey","19"
-"1644","1644","karachi, kentucky, pakistan","22"
-"53732","108154","pacific beach/san diego, california, usa","55"
-"101651","220355","monroeville, pennsylvania, usa","54"
-"2654","2654","san antonio, texas, usa","NULL"
-"46728","101150","edgerton, wisconsin, usa","NULL"
-"96567","215271","apo ae, new york, usa","52"
-"105851","224555","london, england, united kingdom","23"
-"54728","109150","detroit, michigan, usa","NULL"
-"49010","103432","waukesha, wisconsin, usa","14"
-"127105","245809","stow, massachusetts, usa","NULL"
-"61174","115596","morrisville, north carolina, usa","NULL"
-"126459","245163","bakersfield, california, usa","NULL"
-"68401","122823","sao paulo, n/a, brazil","46"
-"40123","81806","woodford green, england, united kingdom","42"
-"68328","122750","reykjanesbær, n/a, iceland","NULL"
-"17832","36412","memphis, tennessee, usa","NULL"
-"29718","71401","hude, bremen, germany","53"
-"10286","10286","vigo, pontevedra, spain","22"
-"31642","73325","owen sound, ontario, canada","34"
-"106856","225560","philadelphia, pennsylvania, usa","43"
-"31378","73061","ingolstadt, bayern, germany","25"
-"95363","214067","andover, kansas, usa","38"
-"79910","168245","delisle, saskatchewan, canada","37"
-"130509","249213","cochrane, alberta, canada","18"
-"17325","35905","toronto, ontario, canada","NULL"
-"39169","80852","manchester, england, united kingdom","31"
-"8626","8626","kristianstad, skåne, sweden","20"
-"51783","106205","seattle, washington, usa","18"
-"95878","214582","christies beach, south australia, australia","65"
-"54051","108473","rostock, mecklenburg-vorpommern, germany","22"
-"15875","34455","derby, n/a, united kingdom","23"
-"94126","212830","chicago, illinois, usa","NULL"
-"24440","66123","terre haute, indiana, usa","NULL"
-"50202","104624","rome, ,","24"
-"99461","218165","bangalore, na, india","NULL"
-"16938","35518","greenfield, massachusetts, usa","NULL"
-"133271","251975","eppstein, hessen, germany","30"
-"103349","222053","kilquiggan, tullow, co. carlow, ireland","53"
-"32599","74282","paris, n/a, france","28"
-"7636","7636","ann arbor, michigan, usa","31"
-"76157","130579","bakersfield, california, usa","20"
-"68426","122848","paris, n/a, france","NULL"
-"38768","80451","ulm, baden-wuerttemberg, germany","NULL"
-"117628","236332","basel, n/a, switzerland","NULL"
-"97934","216638","glens falls, new york, usa","NULL"
-"73586","128008","richmond, virginia, usa","29"
-"12334","30914","guyton, georgia, usa","22"
-"104873","223577","ottawa, ontario, canada","NULL"
-"59045","113467","pittsburgh, pennsylvania, usa","37"
-"135601","274168","whitehorse, yukon territory, canada","NULL"
-"79403","167738","bremerton, washington, usa","23"
-"14950","33530","corona, california, usa","NULL"
-"99031","217735","bellefontaine, ohio, usa","26"
-"53036","107458","adelaide, south australia, australia","NULL"
-"101690","220394","winston-salem, north carolina, usa","NULL"
-"1524","1524","brattleboro, vermont, usa","NULL"
-"4337","4337","cordoba, cordoba, argentina","44"
-"130047","248751","zurich, n/a, switzerland","NULL"
-"21244","62927","campbeltown, scotland, united kingdom","55"
-"25834","67517","auckland, n/a, new zealand","30"
-"32723","74406","sydney, new south wales, australia","NULL"
-"15311","33891","mount pearl, newfoundland, canada","NULL"
-"10153","10153","tomahawk, wisconsin, usa","NULL"
-"11924","30504","hungen, hessen, germany","NULL"
-"112539","231243","cincinnati, ohio, usa","NULL"
-"23386","65069","oslo, oslo, norway","40"
-"122003","240707","melbourne, victoria, australia","21"
-"69491","123913","manchester, england, united kingdom","38"
-"87747","176082","london, n/a, united kingdom","26"
-"24486","66169","pine bush, new york, usa","NULL"
-"43588","98010","portland, oregon, usa","13"
-"126702","245406","mansoura, mansoura, egypt","27"
-"129304","248008","shelton, washington, usa","44"
-"103637","222341","brisbane, queensland, australia","23"
-"11533","30113","seattle, washington, usa","29"
-"113578","232282","wheatley, ontario, canada","28"
-"31424","73107","notre dame de monts, pays de la loire, france","35"
-"59501","113923","burnaby, british columbia, canada","NULL"
-"122286","240990","norwich, england, italy","NULL"
-"90579","209283","yellowknife, northwest territories, canada","57"
-"55696","110118","key largo, florida, usa","NULL"
-"97605","216309","seoul, n/a, south korea","40"
-"3118","3118","grand blanc, michigan, usa","NULL"
-"11982","30562","victoria, british columbia, canada","NULL"
-"46009","100431","düsseldorf, nordrhein-westfalen, germany","33"
-"81922","170257","olympia, washington, usa","59"
-"10288","10288","lagos, utah, nigeria","NULL"
-"106982","225686","daly city, california, usa","16"
-"115860","234564","barcelona, n/a, spain","31"
-"109933","228637","raleigh, north carolina, usa","37"
-"85059","173394","chicago, illinois, usa","NULL"
-"102100","220804","rochester, new york, usa","NULL"
-"89510","177845","antwerp, antwerp, belgium","31"
-"133592","252296","são paulo, são paulo, brazil","30"
-"86166","174501","austin, texas, usa","NULL"
-"75968","130390","london, england, united kingdom","NULL"
-"106207","224911","augsburg, bayern, germany","30"
-"66703","121125","santa ana, n/a, el salvador","40"
-"120914","239618","kuala lumpur, selangor, malaysia","51"
-"46331","100753","g³ogów, dolno?l¹skie, poland","NULL"
-"9298","9298","kannapolis, north carolina, usa","26"
-"97653","216357","salerno, campania, italy","31"
-"91058","209762","las vegas, nevada, usa","63"
-"122884","241588","morgan, vermont, usa","NULL"
-"124058","242762","bochum, nordrhein-westfalen, germany","23"
-"95211","213915","sheffield, s yorkshire, united kingdom","29"
-"126243","244947","stuart, florida, usa","NULL"
-"17851","36431","dayton, ohio, usa","32"
-"139828","278395","oakland, california, usa","NULL"
-"133596","252300","porto, n/a, portugal","24"
-"101976","220680","tampa, florida, usa","72"
-"22088","63771","santa cruz, n/a, portugal","26"
-"131768","250472","medford, oregon, usa","49"
-"84542","172877","san jose, san jose, costa rica","31"
-"102082","220786","heemstede, n-holland, netherlands","19"
-"59568","113990","milwaukee, wisconsin, usa","NULL"
-"124355","243059","minneapolis, minnesota, usa","NULL"
-"51895","106317","charleston,, west virginia, usa","NULL"
-"86479","174814","topeka, kansas, usa","NULL"
-"96738","215442","richmond, british columbia, canada","NULL"
-"45909","100331","maracaibo, zulia, venezuela","41"
-"89906","178241","spindale, north carolina, usa","NULL"
-"42339","96761","jarrow, tyne and wear, united kingdom","NULL"
-"62957","117379","rittman, ohio, usa","46"
-"42004","83687","bradenton, florida, usa","NULL"
-"26434","68117","denver, ,","44"
-"77828","166163","shropshire, england, united kingdom","30"
-"135908","274475","milano, lombardia, italy","NULL"
-"85944","174279","chico, california, usa","38"
-"48824","103246","beilstein, baden-wuerttemberg, germany","NULL"
-"109198","227902","makati city, philippines, pangasinan,,region 3, philippines","21"
-"42034","83717","adelaide, south australia, australia","NULL"
-"118779","237483","terry, mississippi, usa","NULL"
-"38617","80300","reading, england, united kingdom","23"
-"34712","76395","mar del plata, buenos aires, argentina","45"
-"79321","167656","revelstoke, british columbia, canada","30"
-"117605","236309","wellington, n/a, new zealand","NULL"
-"1561","1561","nashville, tennessee, usa","NULL"
-"48311","102733","seattle, washington, usa","38"
-"39255","80938","oak  island, north carolina, usa","76"
-"3332","3332","hartlepool, cleveland, united kingdom","54"
-"70442","124864","munic, bavaria, germany","NULL"
-"9057","9057","wellington, n/a, new zealand","41"
-"88238","176573","milwaukee, wisconsin,","32"
-"118296","237000","seffner, florida, usa","NULL"
-"131385","250089","riverside, california, usa","17"
-"53630","108052","tilburg, nebraska, netherlands","NULL"
-"45400","99822","amsterdam, alabama, netherlands","28"
-"58826","113248","kitchener, ontario, canada","NULL"
-"16812","35392","piacenza, emilia romagna, italy","25"
-"90875","209579","barcelona, catalunya, spain","46"
-"105443","224147","coimbra, coimbra, portugal","31"
-"68681","123103","mocksville, north carolina, usa","NULL"
-"79565","167900","perth, western australia, australia","26"
-"101579","220283","fort wayne, indiana, usa","28"
-"127057","245761","potsdam, brandenburg, germany","24"
-"97744","216448","high wycombe, buckinghamshire, united kingdom","32"
-"62945","117367","las vegas, nevada, usa","61"
-"123572","242276","phoenix, arizona, usa","NULL"
-"88187","176522","amarillo, texas, usa","55"
-"126941","245645","phoenix, arizona, usa","NULL"
-"138246","276813","sitges, barcelona, spain","29"
-"126327","245031","pasadena, california, usa","NULL"
-"135500","274067","cincinnati, ohio, usa","39"
-"8659","8659","roslindale, massachusetts, usa","NULL"
-"1326","1326","firenze, toscana, italy","37"
-"77363","165698","toronto, ontario, canada","47"
-"70830","125252","berlin, berlin, germany","NULL"
-"20972","62655","haifa, n/a, israel","36"
-"39278","80961","napoli, campania, italy","38"
-"129141","247845","wichita, kansas, usa","34"
-"122226","240930","madison, ohio, usa","61"
-"30199","71882","third lake, illinois, usa","46"
-"103957","222661","hickory, north carolina, usa","26"
-"134847","273414","orange, new jersey, usa","33"
-"63250","117672","derby, lazio, usa","40"
-"37591","79274","san diego, california, usa","NULL"
-"25113","66796","tunbridge wells, kent, united kingdom","21"
-"40646","82329","grenoble, california, france","49"
-"26537","68220","nashua, new hampshire, usa","NULL"
-"41283","82966","macedonia, ohio, usa","36"
-"32213","73896","houston, texas, usa","39"
-"7743","7743","desamparados, san josé, costa rica","29"
-"80163","168498","ferrol, a coruña, spain","25"
-"137146","275713","falköping, västergötland, sweden","NULL"
-"19815","61498","mishawaka, indiana, usa","NULL"
-"49648","104070","denia, españa, spain","27"
-"43569","97991","berlin, berlin, germany","24"
-"53803","108225","largo, florida, usa","64"
-"32993","74676","portsmouth, hampshire, united kingdom","NULL"
-"49212","103634","kingston, new york, usa","19"
-"8487","8487","carrollton, texas, usa","30"
-"113696","232400","van buren, arkansas, usa","53"
-"136234","274801","bucharest, n/a, romania","28"
-"47380","101802","stockholm, stockholm, sweden","25"
-"108358","227062","phoenix, arizona, usa","39"
-"126555","245259","raleigh, north carolina, usa","NULL"
-"128776","247480","cannes, paca, france","28"
-"107491","226195","burnaby, british columbia, canada","51"
-"105309","224013","jacksonville, florida, usa","17"
-"77404","165739","san carlos, california, usa","40"
-"136736","275303","wanganui, n/a, new zealand","33"
-"35250","76933","houston, texas, usa","NULL"
-"78445","166780","lawrenceville, georgia, usa","NULL"
-"103803","222507","mountain view, california, usa","NULL"
-"3449","3449","rostock, mecklenburg-vorpommern, germany","26"
-"69351","123773","strassen, luxembourg, luxembourg","38"
-"14372","32952","sayville, new york, usa","NULL"
-"120839","239543","crystal lake, illinois, usa","24"
-"73180","127602","germantown, tennessee, usa","56"
-"38782","80465","soest, nordrhein-westfalen, germany","NULL"
-"52494","106916","leicestershire, england, united kingdom","19"
-"86122","174457","croydon, south australia, australia","51"
-"60927","115349","oakhurst, new jersey, usa","52"
-"118608","237312","cavezzo, emilia romagna, italy","28"
-"34593","76276","uppsala, uppsala, sweden","NULL"
-"40167","81850","prishtina, n/a, albania","NULL"
-"121160","239864","marina del rey, california, usa","36"
-"127574","246278","grottazzolina ap, marche, italy","NULL"
-"92469","211173","oxford, england, united kingdom","25"
-"118560","237264","cairo, n/a, egypt","35"
-"32331","74014","oslo, n/a, norway","28"
-"36492","78175","el paso, texas, usa","51"
-"82594","170929","baltimore, maryland, usa","NULL"
-"23090","64773","manchester, connecticut, usa","NULL"
-"86827","175162","glendale, arizona, usa","39"
-"99298","218002","tehran, n/a, iran","25"
-"124830","243534","pacifica, california, usa","NULL"
-"115351","234055","st. clair shores, michigan, usa","35"
-"25076","66759","bayshore, new york, usa","NULL"
-"126012","244716","cottontown, tennessee, usa","NULL"
-"55963","110385","darmstadt, hessen, germany","35"
-"30416","72099","el cajon, ,","41"
-"113950","232654","ferguson, missouri, usa","18"
-"73298","127720","swansboro, north carolina, usa","23"
-"127266","245970","westwego, louisiana, usa","NULL"
-"70914","125336","kelseyville, california, usa","NULL"
-"68403","122825","vancouver, british columbia, canada","NULL"
-"100680","219384","pacific palisades, california, usa","NULL"
-"11138","29718","zuerich, n/a, switzerland","28"
-"84113","172448","columbia, missouri, usa","NULL"
-"43167","97589","ottawa, ontario, canada","62"
-"58920","113342","shreveport, louisiana, usa","61"
-"85008","173343","westminster, maryland, usa","NULL"
-"128086","246790","flushing, new york, usa","NULL"
-"101465","220169","aberystwyth, wales, united kingdom","NULL"
-"94834","213538","ft. lauderdale, florida, usa","46"
-"54023","108445","chapman ranch, texas, usa","43"
-"105659","224363","lisbon, ohio, usa","NULL"
-"71513","125935","lynchburg, virginia, usa","20"
-"44019","98441","athens, , greece","22"
-"42296","96718","montgomery, alabama, usa","NULL"
-"128562","247266","middleburg, florida, usa","35"
-"124560","243264","hno:25-21/6,eastanandbagh,malkajgiri,hyderabad, ap, india","NULL"
-"133486","252190","navarre, florida, usa","NULL"
-"46393","100815","vancouver, british columbia, canada","30"
-"73950","128372","shengzhen, shengzhen state, china","22"
-"20474","62157","oxford, n/a, united kingdom","64"
-"92187","210891","barcelona, barcelona, spain","27"
-"83783","172118","san diego, california, usa","NULL"
-"127298","246002","windsor, ontario, canada","NULL"
-"102680","221384","tampere, pirkanmaa, finland","35"
-"18673","60356","painesville, ohio, usa","41"
-"90513","209217","lomita, california, usa","24"
-"86018","174353","hialeah, florida, usa","22"
-"95042","213746","marseille, marseille, france","34"
-"98663","217367","beaverton, oregon, usa","NULL"
-"35562","77245","memphis, tennessee, usa","41"
-"67290","121712","santa rita do passa quatro, são paulo, brazil","33"
-"64374","118796","quakertown, pennsylvania, usa","NULL"
-"32982","74665","new bedford, massachusetts, usa","NULL"
-"94848","213552","berkeley, california, usa","NULL"
-"106489","225193","new delhi, n/a, india","28"
-"56642","111064","nürnberg, bayern, germany","NULL"
-"59703","114125","williamston, south carolina, usa","29"
-"9653","9653","barcelona, catalunya, spain","33"
-"29483","71166","auckland, akl, new zealand","NULL"
-"134205","272772","bloomington, illinois, usa","20"
-"115111","233815","stafford heights, queensland, australia","41"
-"11461","30041","toronto, ontario, canada","55"
-"331","331","buenos aires, buenos aires, argentina","60"
-"103983","222687","san diego, california, usa","NULL"
-"10482","10482","cologne, northrhine westfalia, germany","NULL"
-"23991","65674","madison, indiana, usa","24"
-"16359","34939","christchurch, n/a, new zealand","42"
-"132160","250864","iron, minnesota, usa","NULL"
-"52124","106546","amsterdam, n/a, netherlands","NULL"
-"131208","249912","kirkwood, missouri, usa","26"
-"67283","121705","getxo, españa, spain","59"
-"26645","68328","winnenden, baden-wuerttemberg, germany","32"
-"9212","9212","tlell, british columbia, canada","30"
-"8922","8922","düsseldorf, nordrhein-westfalen, germany","26"
-"82484","170819","sidney, british columbia, canada","NULL"
-"82252","170587","blacksburg, south carolina, usa","51"
-"119073","237777","portland, oregon, usa","NULL"
-"41722","83405","apple valley, california, usa","67"
-"82742","171077","manchester, connecticut, usa","41"
-"53101","107523","north hollywood, california, usa","NULL"
-"46876","101298","eagleville, tennessee, usa","NULL"
-"139298","277865","belgrade, serbia, yugoslavia","59"
-"57255","111677","mesa, arizona, usa","NULL"
-"120752","239456","casale monferrato, piemonte, italy","26"
-"76845","131267","brisbane, brisbane, australia","NULL"
-"130323","249027","cheraw, south carolina, usa","35"
-"112383","231087","naples, florida, usa","13"
-"118942","237646","rockville, maryland, usa","56"
-"25053","66736","berkeley, california, usa","21"
-"95215","213919","oakland, ,","NULL"
-"67124","121546","clearlake, minnesota, usa","NULL"
-"43073","97495","brisbane, queensland, australia","24"
-"106361","225065","garland, texas, usa","21"
-"8479","8479","kissimmee, florida, usa","31"
-"11640","30220","hatboro, pennsylvania, usa","NULL"
-"104713","223417","surrey, cobham, united kingdom","33"
-"120005","238709","ingolstadt, bayern, germany","NULL"
-"65472","119894","bristol, somerset, united kingdom","29"
-"82971","171306","genova, liguria, italy","38"
-"83050","171385","la coruña, galicia, spain","28"
-"104812","223516","carollton, georgia, usa","53"
-"78683","167018","san jose, california, usa","24"
-"36939","78622","abergavenny, wales, united kingdom","20"
-"49886","104308","miami beach, florida, usa","23"
-"72883","127305","london, england, united kingdom","NULL"
-"15592","34172","sevilla, andalucia, spain","26"
-"92352","211056","huelva, andalucia, spain","38"
-"9358","9358","victoria, illinois, usa","42"
-"99050","217754","jacksonville, florida, usa","NULL"
-"93407","212111","tampere, n/a, finland","19"
-"38218","79901","oldenburg, niedersachsen, germany","37"
-"129631","248335","cherry hill, new jersey, usa","NULL"
-"75049","129471","pine grove, louisiana, usa","NULL"
-"2051","2051","sestri levante, liguria, italy","NULL"
-"111521","230225","san antonio, texas, usa","13"
-"78228","166563","voorhees, new jersey, usa","30"
-"94751","213455","baltimore, maryland, usa","NULL"
-"10025","10025","gulf breeze, florida, usa","NULL"
-"19437","61120","augusta county, virginia, usa","39"
-"79140","167475","ingersoll, ontario, canada","NULL"
-"13829","32409","viseu, portugal, portugal","13"
-"14389","32969","mears, virginia, usa","47"
-"13457","32037","hobart, indiana, usa","42"
-"128359","247063","sidney, british columbia, canada","NULL"
-"58987","113409","chloride, arizona, usa","NULL"
-"25759","67442","puget sound, washington, usa","32"
-"71239","125661","seattle, washington, usa","49"
-"71710","126132","tuscaloosa, alabama, usa","53"
-"49562","103984","rapid city, south dakota, usa","NULL"
-"130919","249623","beaumont, texas, usa","NULL"
-"119234","237938","fairfax, virginia, usa","62"
-"2090","2090","dudley, massachusetts, usa","28"
-"79582","167917","naples, florida, usa","NULL"
-"19448","61131","rome, lazio, italy","27"
-"109036","227740","concord, california, usa","31"
-"122865","241569","nanaimo, british columbia, canada","NULL"
-"15227","33807","cedar  rapids, iowa, usa","NULL"
-"116423","235127","yamuna nagar, haryana, india","NULL"
-"93419","212123","san francisco, california, usa","NULL"
-"124329","243033","south wales, wales, united kingdom","18"
-"27351","69034","bochum, nrw, germany","NULL"
-"3152","3152","calgary, alberta, canada","50"
-"91021","209725","vancouver, british columbia, canada","NULL"
-"41863","83546","cardiff, wales, united kingdom","60"
-"82338","170673","portland, oregon, usa","32"
-"86550","174885","west des moines, iowa, usa","37"
-"43781","98203","isle of wight, england, united kingdom","20"
-"106686","225390","bonn, nordrhein-westfalen, germany","30"
-"75375","129797","barcelona, barcelona, spain","30"
-"126706","245410","san antonio, texas, usa","28"
-"15651","34231","brisbane, queensland, australia","35"
-"58038","112460","markelo, overijssel, netherlands","43"
-"51779","106201","columbia, missouri, usa","NULL"
-"70739","125161","minneapolis, minnesota, usa","25"
-"48328","102750","west vancouver, british columbia, canada","NULL"
-"63781","118203","nepean, ontario, canada","NULL"
-"30666","72349","mantova, lombardia, italy","24"
-"116008","234712","valencia, n/a, spain","48"
-"54534","108956","borgo ticino, piemonte, italy","25"
-"87491","175826","olds, alberta, canada","27"
-"88091","176426","reston, virginia, usa","46"
-"20231","61914","granada, andalucia, spain","26"
-"122704","241408","san jose, california, usa","NULL"
-"20553","62236","kuala lumpur, n/a, malaysia","28"
-"128787","247491","jacksonville, florida, usa","NULL"
-"119817","238521","horsham, pennsylvania, usa","34"
-"1219","1219","taiping, perak, malaysia","17"
-"127615","246319","zaandam, wisconsin, netherlands","NULL"
-"95896","214600","sherbrooke, quebec, canada","24"
-"54815","109237","barcelona, barcelona, spain","27"
-"67582","122004","edmonds, washington, usa","51"
-"69037","123459","livermore, california, usa","NULL"
-"77018","156726","clearwater, florida, usa","NULL"
-"6610","6610","mobile, alabama, usa","52"
-"127868","246572","chicago, illinois, usa","41"
-"62057","116479","seattle, washington, usa","28"
-"72939","127361","lewistown, pennsylvania, usa","45"
-"109761","228465","new brunswick, new jersey, usa","NULL"
-"45370","99792","oswego, new york, usa","50"
-"60852","115274","paris, n/a, france","31"
-"75619","130041","fraser, michigan, usa","NULL"
-"43761","98183","creston,, british columbia, canada","70"
-"39774","81457","tswane, gauteng, south africa","24"
-"58697","113119","bath, england, united kingdom","42"
-"23808","65491","greenville, south carolina, usa","NULL"
-"70984","125406","augsburg, bayern, germany","NULL"
-"5694","5694","lake forest, california, usa","43"
-"56984","111406","castlerock, northern ireland, united kingdom","31"
-"104424","223128","hartselle, alabama, canada","52"
-"82991","171326","toronto, ,","27"
-"15070","33650","coral springs, florida, usa","NULL"
-"81301","169636","dexter, michigan, usa","51"
-"97299","216003","cardiff, wales, united kingdom","25"
-"101345","220049","san jose, campania, usa","49"
-"131696","250400","regina, saskatchewan, canada","NULL"
-"114323","233027","alpena, michigan, usa","NULL"
-"82816","171151","gdansk, pomorskie, poland","23"
-"65414","119836","fullerton, california, usa","NULL"
-"83762","172097","marbella, malaga, spain","37"
-"13882","32462","düsseldorf, nordrhein-westfalen, germany","35"
-"85740","174075","bedburg hau, nrw, germany","NULL"
-"134828","273395","barcelona, catalunya, spain","24"
-"110232","228936","newton, massachusetts, usa","NULL"
-"75284","129706","duncan, british columbia, canada","17"
-"53568","107990","smithfield, north carolina, usa","NULL"
-"97761","216465","albury, new south wales, australia","43"
-"36323","78006","modesto, california, usa","25"
-"75576","129998","avon, connecticut, usa","19"
-"32219","73902","spanish fork, utah, usa","38"
-"76178","130600","gardena, california, usa","45"
-"75362","129784","florissant, missouri, usa","NULL"
-"69826","124248","tampa, florida, usa","NULL"
-"22323","64006","edmonton, alberta, canada","NULL"
-"16099","34679","owings mills, maryland, usa","31"
-"114046","232750","vancouver, british columbia, canada","NULL"
-"25590","67273","eugene, oregon, usa","NULL"
-"127427","246131","frankfurt a. m., hessen, germany","55"
-"20432","62115","san miguel de allende, gto., mexico","NULL"
-"111430","230134","bussero (milano), lombardia, italy","41"
-"131431","250135","fort lauderdale, florida, usa","65"
-"63083","117505","pittsburgh, pennsylvania, usa","43"
-"96992","215696","sittingbourne, england, united kingdom","47"
-"65048","119470","frankfurt am main, hessen, germany","25"
-"52482","106904","peterborough, england, united kingdom","NULL"
-"78385","166720","la grange, illinois, usa","29"
-"85975","174310","milano, lombardia, italy","52"
-"134914","273481","sydney, new south wales, australia","23"
-"121676","240380","o`fallon, illinois, usa","14"
-"26472","68155","munich, bavaria, germany","29"
-"133996","272563","elmira, new york, usa","19"
-"119783","238487","exeter, england, united kingdom","22"
-"14473","33053","ottawa, ontario, canada","21"
-"23299","64982","sellersville, pennsylvania, usa","NULL"
-"20048","61731","ulm, schwaben, germany","NULL"
-"134720","273287","edinburgh, scotland, united kingdom","22"
-"109286","227990","merritt island, fl, florida, usa","63"
-"72277","126699","virginia beach, virginia, usa","29"
-"79478","167813","chicago, illinois, usa","28"
-"6255","6255","istanbul, n/a, turkey","18"
-"9403","9403","hastings, nebraska, usa","35"
-"47569","101991","boca raton, florida, usa","81"
-"100719","219423","flushing, new york, usa","NULL"
-"19131","60814","bochum, nordrhein-westfalen, germany","27"
-"24192","65875","boston, massachusetts, usa","33"
-"24761","66444","barcelona, catalunya, spain","33"
-"28631","70314","victoria, british columbia, canada","23"
-"28087","69770","virginia beach, virginia, usa","NULL"
-"57431","111853","leeds, england, united kingdom","40"
-"3250","3250","detroit, michigan, usa","NULL"
-"132318","251022","chicago, illinois, usa","NULL"
-"89470","177805","coon rapids, minnesota, usa","NULL"
-"6273","6273","camerota (sa), campania, italy","NULL"
-"46039","100461","christchurch, canterbury, new zealand","NULL"
-"64712","119134","brighton, england, united kingdom","38"
-"128291","246995","harrisburg, illinois, usa","19"
-"57867","112289","rochester, illinois, usa","48"
-"70303","124725","kassel, hessen, germany","NULL"
-"107082","225786","boone, iowa, usa","50"
-"69057","123479","decatur, alabama, usa","NULL"
-"49616","104038","1,tebuk tukang emas,bagan datoh, perak, n/a, malaysia","22"
-"23093","64776","bellevue, nebraska, usa","NULL"
-"84253","172588","fredericton, ,","42"
-"9040","9040","bogota, bogota, colombia","23"
-"49342","103764","o`fallon, missouri, usa","28"
-"32628","74311","morrisville, north carolina, usa","NULL"
-"13480","32060","melaka, melaka, malaysia","26"
-"42352","96774","bellaria, romagna, italy","NULL"
-"50419","104841","melbourne, victoria, australia","29"
-"19872","61555","canberra, australian capital territory, australia","21"
-"78128","166463","norwood, massachusetts, usa","28"
-"4834","4834","eindhoven, noord brabant, netherlands","NULL"
-"108244","226948","hanover, pennsylvania, usa","NULL"
-"28472","70155","wittenburg, nova scotia, canada","63"
-"43825","98247","riachos, portugal-ribatejo, portugal","19"
-"44105","98527","bologna, emilia romagna, italy","28"
-"95526","214230","saskatoon, saskatchewan, canada","NULL"
-"136784","275351","new york, new york, usa","NULL"
-"39284","80967","pisa, pisa, italy","32"
-"134211","272778","mount sterling, ohio, usa","NULL"
-"1505","1505","nottingham, england, united kingdom","25"
-"113980","232684","trinity, north carolina, usa","49"
-"40420","82103","anacortes, washington, usa","37"
-"69272","123694","glasgow, scotland, united kingdom","22"
-"34351","76034","high legh knutsford, cheshire, united kingdom","NULL"
-"117905","236609","nb, nb, china","NULL"
-"29355","71038","temecula, california, usa","51"
-"29461","71144","firenze, ,","NULL"
-"89864","178199","amarillo, texas, usa","NULL"
-"2193","2193","köln, nordrhein-westfalen,","NULL"
-"56666","111088","london, london, united kingdom","25"
-"98294","216998","durban, natal, south africa","36"
-"7039","7039","south bend, indiana, usa","22"
-"58268","112690","eschweiler, nordrhein-westfalen, germany","NULL"
-"36736","78419","bremen, bremen, germany","NULL"
-"590","590","münster, n/a, germany","NULL"
-"71475","125897","hpuston, texas, usa","NULL"
-"892","892","austin, texas, usa","NULL"
-"89995","178330","ottawa, ontario, canada","NULL"
-"80545","168880","atlanta, georgia, usa","NULL"
-"112725","231429","lynchburg, virginia, usa","28"
-"101647","220351","san francisco, ,","NULL"
-"121963","240667","rüti, zurich, switzerland","NULL"
-"138997","277564","durham, north carolina, usa","NULL"
-"55541","109963","madison, wisconsin, usa","NULL"
-"76365","130787","pittsfield, massachusetts, usa","50"
-"48482","102904","roquebrune cap martin, france, france","NULL"
-"18194","59877","bellingham, washington, usa","21"
-"140215","278782","larnaca, n/a, cyprus","NULL"
-"17264","35844","burnley, ``n/a``.), united kingdom","17"
-"116276","234980","treviso, veneto, italy","28"
-"28878","70561","portland, texas, usa","23"
-"65034","119456","phoenixville, pennsylvania, usa","34"
-"118626","237330","columbus, ohio, usa","41"
-"645","645","ottawa, ontario, canada","NULL"
-"64188","118610","uppsala, uppsala, sweden","NULL"
-"36236","77919","london, england, united kingdom","46"
-"108962","227666","anglesey, wales, united kingdom","20"
-"41269","82952","laredo, texas, usa","NULL"
-"98766","217470","toronto, ontario, canada","17"
-"59566","113988","livonia, michigan, usa","NULL"
-"51951","106373","tahlequah, oklahoma, usa","24"
-"27134","68817","pratt, kansas, usa","NULL"
-"20128","61811","sabadell, barcelona, spain","30"
-"130966","249670","bethlehem, pennsylvania, usa","35"
-"110128","228832","london, england, united kingdom","NULL"
-"52991","107413","bronx, new york, usa","24"
-"27927","69610","new lebanon, ohio, usa","19"
-"63442","117864","hollywood, florida, usa","36"
-"29609","71292","aydin, kusadasi, turkey","45"
-"79515","167850","charlottesville, virginia, usa","40"
-"53946","108368","charlotte, n., usa","NULL"
-"34514","76197","oak park, illinois, usa","NULL"
-"18219","59902","london, n/a, united kingdom","29"
-"8404","8404","singapore, alabama, singapore","66"
-"32299","73982","augutsa, georgia, usa","33"
-"98433","217137","london, england, united kingdom","NULL"
-"41335","83018","lexington, kentucky, usa","21"
-"23745","65428","houston, texas, usa","49"
-"97814","216518","guildford, england, united kingdom","NULL"
-"134071","272638","paris, ile-de-france, france","27"
-"99988","218692","northfield, minnesota, usa","42"
-"26249","67932","lauf, bayern, germany","18"
-"81423","169758","sacramento, california, usa","18"
-"104930","223634","gibsons, british columbia, canada","47"
-"81097","169432","bonham, texas, usa","NULL"
-"139466","278033","manchester, new hampshire, usa","54"
-"132826","251530","wellington, wellington, new zealand","53"
-"80783","169118","o`neill, nebraska, usa","NULL"
-"9188","9188","washougal, washington, usa","NULL"
-"108083","226787","antioch, illinois, usa","33"
-"115105","233809","anchorage, alaska, usa","58"
-"60842","115264","toronto, ontario, canada","19"
-"88070","176405","m, n/a, netherlands","NULL"
-"15978","34558","barañain, navarra, spain","24"
-"102513","221217","medford, oregon, usa","NULL"
-"30139","71822","essendon, victoria, australia","47"
-"64077","118499","frankfurt, hessen, germany","NULL"
-"109716","228420","watauga, texas, usa","16"
-"52691","107113","seattle, washington, usa","NULL"
-"11616","30196","alhambra, california, usa","NULL"
-"57522","111944","mannford, oklahoma, usa","23"
-"136383","274950","hamburg, hamburg, germany","NULL"
-"21251","62934","biloxi, mississippi, usa","NULL"
-"118837","237541","portland, oregon, usa","53"
-"57588","112010","dublin, n/a, ireland","NULL"
-"19521","61204","lincoln, nebraska, usa","41"
-"72015","126437","houston, , usa","33"
-"82033","170368","springfield, missouri, usa","51"
-"87562","175897","mungia, euskadi, spain","26"
-"139425","277992","mt lawley, western australia, australia","26"
-"14154","32734","bruxelles, bruxelles, belgium","22"
-"121670","240374","frosinone, lazio, italy","NULL"
-"62560","116982","madrid, madrid, spain","48"
-"22868","64551","glen waverley, victoria, australia","NULL"
-"65771","120193","sankt augustin, nordrhein-westfalen, germany","47"
-"103465","222169","dorsten, nordrhein-westfalen, germany","20"
-"54446","108868","stafford, virginia, usa","16"
-"37626","79309","torino, piemonte, italy","44"
-"139615","278182","sacramento, california, usa","42"
-"72792","127214","reggioemilia, emilia romagna, italy","NULL"
-"123076","241780","atlanta, georgia, usa","35"
-"119676","238380","east lansing, michigan, usa","NULL"
-"114793","233497","miami, florida, usa","NULL"
-"106347","225051","foster city, california, usa","NULL"
-"75270","129692","trogir, n/a, croatia","21"
-"125593","244297","munich, n7a, germany","NULL"
-"113095","231799","haifa, n/a, israel","29"
-"3026","3026","kuala lumpur, kuala lumpur, malaysia","NULL"
-"109053","227757","pittsburgh, pennsylvania, usa","32"
-"79234","167569","vancouver, british columbia, canada","NULL"
-"138225","276792","boise, idaho, usa","44"
-"48429","102851","hamilton, ontario, canada","24"
-"85715","174050","venice, veneto, italy","32"
-"123195","241899","subang jaya, selangor darul ehsan, malaysia","1"
-"91411","210115","molkom, värmland, sweden","17"
-"13367","31947","conway, arkansas, usa","50"
-"43303","97725","neumarkt, bayern, germany","50"
-"55722","110144","diemen, noord holland, netherlands","NULL"
-"61145","115567","nashville, tennessee, usa","28"
-"3687","3687","muchacha, alabama, usa","17"
-"7430","7430","milano, milano, italy","NULL"
-"52523","106945","chilliwack, british columbia, canada","19"
-"112643","231347","aloha, oregon, usa","37"
-"62657","117079","olympia, washington, usa","60"
-"110726","229430","cologne, nordrhein-westfalen, germany","23"
-"91738","210442","el segundo, california, usa","NULL"
-"103264","221968","portland, maine, usa","25"
-"131929","250633","birmingham, west midlands, united kingdom","22"
-"30472","72155","essen, n/a, germany","27"
-"97136","215840","london, ontario, canada","NULL"
-"70784","125206","buenos aires, buenos aires, argentina","32"
-"104474","223178","kaneohe, hawaii, usa","45"
-"74738","129160","lansing, michigan, usa","NULL"
-"138966","277533","aloha, oregon, usa","NULL"
-"41447","83130","carlinville, illinois, usa","53"
-"28644","70327","torreira, aveiro, portugal","2"
-"13430","32010","bloomfield hills, michigan, usa","NULL"
-"104133","222837","columbus, georgia, usa","NULL"
-"15741","34321","reno, nevada, usa","17"
-"104326","223030","fairfield, connecticut, usa","NULL"
-"52918","107340","sacramento, california, usa","54"
-"27284","68967","glenbrook, new south wales, australia","16"
-"107021","225725","bruxelles, bxl, belgium","28"
-"8217","8217","camrose, alberta, canada","NULL"
-"81007","169342","brookline, massachusetts, usa","38"
-"21212","62895","chesterfield, derbyshire, united kingdom","39"
-"134170","272737","federal way, washington, usa","NULL"
-"128314","247018","juneau, alaska, usa","NULL"
-"56219","110641","healdsburg, california, usa","NULL"
-"13322","31902","levittown, new york, usa","40"
-"84655","172990","ottawa, ontario, canada","43"
-"108327","227031","melbourne, victoria, australia","33"
-"61874","116296","nashville, tennessee, usa","NULL"
-"27912","69595","shoreview, minnesota, usa","29"
-"102265","220969","columbia, south carolina, usa","50"
-"98260","216964","tauranga, bay of plenty, new zealand","57"
-"11227","29807","agrate brianza, lombardia, italy","27"
-"132565","251269","lexington, kentucky, usa","NULL"
-"121701","240405","indian orchard, massachusetts, usa","29"
-"133273","251977","auckland, n/a, new zealand","24"
-"3847","3847","boulder, colorado, usa","NULL"
-"55783","110205","mount eliza, victoria, australia","75"
-"89365","177700","adelaide, south australia, australia","54"
-"82763","171098","crawley, england, united kingdom","36"
-"7857","7857","catamarca, catamarca, argentina","33"
-"74375","128797","annandale, virginia, usa","NULL"
-"67487","121909","cambridge, england, united kingdom","NULL"
-"124388","243092","bowen mt, new south wales, australia","48"
-"133069","251773","duncan, british columbia, canada","NULL"
-"108464","227168","moraga, california, usa","17"
-"52962","107384","orlando, florida, usa","32"
-"90239","178574","seattle, washington, usa","34"
-"135545","274112","ch-thun, kanton bern, switzerland","NULL"
-"65761","120183","barranquilla, atlantico, colombia","20"
-"102391","221095","saskatoon, saskatchewan, canada","NULL"
-"12501","31081","south orange, new jersey, usa","20"
-"38306","79989","champaign, illinois, usa","NULL"
-"113694","232398","calgary, alberta, canada","NULL"
-"89122","177457","massillon, ohio, usa","NULL"
-"37509","79192","milan, lombardia, italy","33"
-"80084","168419","melbourne, victoria, australia","26"
-"77983","166318","forest grove, oregon, usa","NULL"
-"32759","74442","milano, lombardia, italy","29"
-"116944","235648","jackson, michigan, usa","19"
-"58668","113090","dallas, texas, usa","35"
-"71900","126322","ottawa, ontario, canada","38"
-"96898","215602","calgary, alberta, canada","NULL"
-"22263","63946","cologne, nordrhein-westfalen, germany","25"
-"35572","77255","duisburg, nordrhein-westfalen, germany","NULL"
-"10557","10557","louisville, kentucky, usa","37"
-"33544","75227","cary, north carolina, usa","54"
-"45430","99852","velbert, nordrhein-westfalen, germany","53"
-"29301","70984","east brunswick, new jersey, usa","57"
-"104467","223171","williamsburg, virginia, usa","NULL"
-"55723","110145","new york, new york, usa","40"
-"84099","172434","melbourne, victoria, australia","19"
-"29206","70889","sao carlos, sao paulo, brazil","26"
-"34121","75804","orange county, california, usa","NULL"
-"68404","122826","edinburgh, scotland, united kingdom","27"
-"31583","73266","seatac, washington, usa","57"
-"56949","111371","milford, michigan, usa","52"
-"95483","214187","fraziers bottom, west virginia, usa","61"
-"132303","251007","guildford, england, united kingdom","NULL"
-"44891","99313","lake oswego, oregon, usa","35"
-"83165","171500","hollywood, california, usa","33"
-"89029","177364","silver spring, maryland, usa","27"
-"112963","231667","sydney, new south wales, australia","30"
-"133178","251882","b, manitoba, canada","19"
-"36213","77896","austin, texas, usa","25"
-"84737","173072","melaka, ,","22"
-"82831","171166","peculiar, missouri, usa","24"
-"98428","217132","harriman, new york, usa","NULL"
-"102548","221252","sheffield, england, united kingdom","39"
-"24380","66063","portland, maine, usa","60"
-"67497","121919","kincardine o`neil, scotland, united kingdom","64"
-"123487","242191","st. petersburg, florida, usa","NULL"
-"132815","251519","birmingham, alabama, usa","38"
-"91089","209793","peterborough, ontario, canada","NULL"
-"125662","244366","sidney, montana, usa","NULL"
-"135017","273584","tel aviv, tel aviv, israel","28"
-"107412","226116","iran-isfahan, i am iranian, iran","33"
-"14902","33482","gridley, illinois, usa","NULL"
-"5565","5565","lavington, new south wales, australia","37"
-"69183","123605","san diego, california, usa","NULL"
-"39989","81672","york, pennsylvania, usa","NULL"
-"121115","239819","cardiff, wales, united kingdom","NULL"
-"109536","228240","austin, texas, usa","24"
-"41792","83475","olympia, washington, usa","69"
-"76028","130450","surrey, ,","NULL"
-"112081","230785","weaubleau, missouri, usa","54"
-"118455","237159","verdun, quebec, canada","27"
-"125937","244641","san diego, , usa","NULL"
-"4880","4880","maintal, hessen, germany","34"
-"75685","130107","chinle, arizona, usa","30"
-"105918","224622","surabaya, jawa timur, indonesia","20"
-"113775","232479","stowmarket, suffolk, united kingdom","37"
-"85132","173467","hollywood, california, usa","NULL"
-"126506","245210","terre haute, indiana, usa","NULL"
-"139548","278115","lugano, tessin, la svizzera","NULL"
-"101912","220616","memphis, tennessee, usa","42"
-"36694","78377","mantova, lombardia, italy","NULL"
-"38923","80606","roma, rm, italy","55"
-"92886","211590","sheffield, united kingdom, united kingdom","28"
-"17265","35845","rochester, new hampshire, usa","NULL"
-"66892","121314","hereford, texas, usa","NULL"
-"1697","1697","bellevue, washington, usa","NULL"
-"67807","122229","carnforth, lancashire, united kingdom","NULL"
-"132583","251287","los angeles, california, usa","40"
-"46616","101038","south bend, indiana, argentina","NULL"
-"66329","120751","san clemente, california, usa","NULL"
-"27106","68789","albuquerque, new mexico, usa","13"
-"104465","223169","harrisburg, illinois, usa","NULL"
-"113475","232179","richmond, virginia, usa","NULL"
-"33111","74794","stratford upon avon, england, united kingdom","32"
-"108030","226734","greenville, mississippi, usa","NULL"
-"25715","67398","san luis potosi, san luis potosi, mexico","18"
-"122367","241071","jefferson city, missouri, usa","NULL"
-"19554","61237","delta, colorado, usa","NULL"
-"24737","66420","xirivella, valencia, spain","30"
-"11071","29651","kew, victoria, australia","NULL"
-"74052","128474","beograd, wales, yugoslavia","26"
-"96538","215242","marysville, washington, usa","NULL"
-"109481","228185","frankfurt, hessen, germany","NULL"
-"42906","97328","portland, oregon, usa","NULL"
-"13401","31981","berlin, berlin, germany","37"
-"66253","120675","crescent city, california, usa","45"
-"15872","34452","mayfield, kentucky, usa","32"
-"50194","104616","houston, texas, usa","NULL"
-"91316","210020","houston, texas, usa","25"
-"80747","169082","lawrenceville, georgia, usa","21"
-"41741","83424","goettingen, lower saxony, germany","NULL"
-"138222","276789","edinburgh, scotland, united kingdom","25"
-"52117","106539","dorchester, england, united kingdom","38"
-"137537","276104","montpellier, herault, france","24"
-"52330","106752","menlo park, california, usa","43"
-"11367","29947","woonsocket, rhode island, usa","NULL"
-"118480","237184","melbourne, victoria, australia","NULL"
-"70827","125249","milan, lombardia, italy","NULL"
-"40482","82165","vila velha, es, brazil","NULL"
-"12943","31523","buranda, queensland, australia","22"
-"85737","174072","austin, texas, usa","NULL"
-"117571","236275","leslie, michigan, usa","28"
-"30264","71947","chicago, illinois, usa","NULL"
-"26075","67758","palm bay, florida, usa","27"
-"16490","35070","elk grove, california, usa","54"
-"4230","4230","riverton, utah, usa","NULL"
-"101288","219992","vancouver, british columbia, canada","NULL"
-"129647","248351","morsbach, nordrhein-westfalen, germany","NULL"
-"76359","130781","wiener neustadt, niederoesterreich, austria","29"
-"9553","9553","beckley, west virginia, usa","31"
-"1984","1984","zug, n/a, switzerland","NULL"
-"108976","227680","hauppauge, new york, usa","24"
-"91240","209944","louisville, kentucky, usa","51"
-"9176","9176","alexandria, virginia, usa","37"
-"76880","131302","huelva, andalucia, españa, alaska, usa","16"
-"53240","107662","west palm beach, florida, usa","15"
-"30995","72678","amsterdam, noord holland, netherlands","NULL"
-"8803","8803","west linn, oregon, usa","NULL"
-"70507","124929","sacramento, california, usa","43"
-"57106","111528","pittsburgh, pennsylvania, usa","NULL"
-"113393","232097","las cruces, new mexico, usa","NULL"
-"82012","170347","las vegas, nevada, usa","NULL"
-"24385","66068","arlington, virginia, usa","NULL"
-"84708","173043","london, ontario, canada","NULL"
-"127345","246049","portola hills, california, usa","NULL"
-"87141","175476","hamburg, hamburg, germany","NULL"
-"108411","227115","durham, north carolina, usa","NULL"
-"356","356","leesburg, virginia, usa","NULL"
-"36602","78285","rosedale, indiana, usa","NULL"
-"55499","109921","san diego, california, usa","NULL"
-"37633","79316","arezzo, toscana, italy","NULL"
-"46926","101348","london, london, united kingdom","NULL"
-"54356","108778","juist, niedersachsen, germany","NULL"
-"33508","75191","chicago, illinois, usa","26"
-"96555","215259","lleida, catalunya, spain","33"
-"21495","63178","hamburg, ,","48"
-"69603","124025","cologne, nordrhein-westfalen, germany","34"
-"46692","101114","rochester, new york, usa","NULL"
-"65935","120357","sioux center, iowa, usa","22"
-"4292","4292","weehawken, new jersey, usa","NULL"
-"44967","99389","london, london, united kingdom","NULL"
-"32975","74658","legazpi, legazpi, philippines","18"
-"26223","67906","chicago, illinois, usa","NULL"
-"97973","216677","dortmund, nordrhein-westfalen, germany","24"
-"75381","129803","stuttgart, baden-wurttemberg, germany","NULL"
-"81172","169507","virginia beach, virginia, usa","19"
-"102178","220882","lacey, washington, usa","39"
-"77829","166164","york, yorkshire, united kingdom","NULL"
-"93811","212515","imola, emilia romagna, usa","NULL"
-"68987","123409","pembroke pines, florida, usa","NULL"
-"62152","116574","baton rouge, louisiana, usa","NULL"
-"107276","225980","durham, new hampshire, usa","NULL"
-"100038","218742","woodland park, colorado, usa","57"
-"117909","236613","auckland, n/a, new zealand","NULL"
-"72078","126500","oceanside, california, usa","47"
-"106750","225454","mentor, ohio, usa","70"
-"119150","237854","mineral wells, texas, usa","NULL"
-"126982","245686","adelaide, south australia, australia","44"
-"117199","235903","london, england, united kingdom","NULL"
-"24420","66103","lakeland, florida, usa","35"
-"20383","62066","irvington, new jersey, usa","16"
-"86370","174705","los angeles (brentwood), california, usa","31"
-"52992","107414","ourense, ourense, spain","27"
-"140087","278654","marostica, veneto, l`italia","NULL"
-"94416","213120","snow lake, manitoba, canada","NULL"
-"87291","175626","jena, thueringen, germany","26"
-"103595","222299","mandan, north dakota, usa","55"
-"108370","227074","kenmore, washington, usa","50"
-"101237","219941","merritt island, florida, usa","NULL"
-"25617","67300","melbourne, victoria, australia","28"
-"107802","226506","austin, texas, usa","NULL"
-"75410","129832","chandigarh, chd, india","24"
-"19116","60799","berkeley, california, usa","22"
-"106024","224728","minneapolis, minnesota, usa","49"
-"116319","235023","zagreb, n/a, croatia","20"
-"10170","10170","san francisco, california, usa","NULL"
-"140287","278854","portland, oregon, usa","NULL"
-"111912","230616","calgary, alberta, canada","31"
-"80853","169188","freeburg, pennsylvania, usa","NULL"
-"133387","252091","moore, south carolina, usa","50"
-"10137","10137","duesseldorf, nordrhein-westfalen, germany","57"
-"98992","217696","rotterdam, zuid holland, netherlands","NULL"
-"7500","7500","bangkok, bangkok, thailand","20"
-"117354","236058","san francisco, california, usa","34"
-"27236","68919","roma, lazio, italy","NULL"
-"97516","216220","thurmont, maryland, usa","34"
-"42829","97251","funchal, madeira, portugal","25"
-"4819","4819","tel aviv, n/a, israel","NULL"
-"108535","227239","poteau, oklahoma, usa","30"
-"69542","123964","modena, emilia-romagna, italy","36"
-"43006","97428","vancouver, british columbia, canada","NULL"
-"69292","123714","dayton, ohio, usa","47"
-"20306","61989","newtown, pennsylvania, usa","0"
-"84818","173153","north vancouver, british columbia, canada","NULL"
-"24690","66373","skokie, illinois, usa","NULL"
-"60376","114798","jacksonville, florida, usa","35"
-"5826","5826","duisburg, nordrhein-westfalen, germany","NULL"
-"18783","60466","memphis, tennessee, usa","NULL"
-"72486","126908","portland, oregon, usa","48"
-"88799","177134","ottawa, ontario, canada","32"
-"91556","210260","asheville, north carolina, vietnam","NULL"
-"37470","79153","galax, virginia, usa","NULL"
-"95601","214305","lisboa, lisboa, portugal","NULL"
-"100619","219323","sainte-foy, quebec, canada","NULL"
-"111787","230491","montreal, quebec, canada","NULL"
-"91709","210413","courtice, ontario, canada","NULL"
-"102991","221695","selkirk, manitoba, canada","NULL"
-"124721","243425","salmon arm, british columbia, canada","NULL"
-"80112","168447","palmerston north, manawatu, new zealand","70"
-"5355","5355","ascot, england, united kingdom","NULL"
-"22338","64021","toronto, ontario, canada","19"
-"86281","174616","wichita, kansas, usa","29"
-"52887","107309","dixon, california, usa","NULL"
-"29899","71582","bonn, nordrhein-westfalen, germany","37"
-"4644","4644","jagodina, n/a, yugoslavia","23"
-"19194","60877","karlsruhe, baden-wuerttemberg, germany","29"
-"65373","119795","verona, veneto, italy","37"
-"111149","229853","ortona, chieti, italy","NULL"
-"40371","82054","greenacres, florida, usa","37"
-"73463","127885","toholampi, n/a, finland","NULL"
-"57697","112119","delhi, n/a, indonesia","23"
-"10583","10583","national city, california, usa","39"
-"121724","240428","phoenix, arizona, usa","50"
-"2822","2822","chiesina uzzanese, toscana, italy","37"
-"54653","109075","sydney, new south wales, australia","19"
-"56815","111237","houston, texas, usa","NULL"
-"71452","125874","london, n/a, united kingdom","NULL"
-"23446","65129","mumbai, mah, india","NULL"
-"59398","113820","kraljevo, yu,","NULL"
-"23524","65207","columbia station, ohio, usa","20"
-"9109","9109","perth, western australia, australia","31"
-"22819","64502","alameda, california, usa","NULL"
-"55116","109538","saint louis, missouri, usa","NULL"
-"115456","234160","columbia, south carolina, usa","NULL"
-"116231","234935","hermitage, tennessee, usa","NULL"
-"101425","220129","bastogne, luxembourg, belgium","17"
-"87601","175936","bristol, england, united kingdom","NULL"
-"42654","97076","basel, basel, switzerland","NULL"
-"8993","8993","tagbilaran city, bohol, philippines","20"
-"28929","70612","crystal lake, illinois, usa","47"
-"32739","74422","sydney, new south wales, australia","21"
-"100822","219526","jamesport, new york, usa","NULL"
-"125970","244674","scotch creek, british columbia, canada","NULL"
-"82511","170846","dubuque, iowa, usa","NULL"
-"71150","125572","khuzdar, balochistan, pakistan","25"
-"117630","236334","minneapolis, minnesota, usa","NULL"
-"123751","242455","boppard, rheinland-pfalz, germany","32"
-"86922","175257","tolland, ,","NULL"
-"50126","104548","dillingen, saarland, germany","45"
-"58884","113306","knoxville, tennessee, usa","19"
-"37078","78761","heide, schleswig-holstein, germany","34"
-"96680","215384","hendersonville, north carolina, usa","NULL"
-"86551","174886","san clemente, california, usa","NULL"
-"32082","73765","madrid, n/a, spain","52"
-"62016","116438","decatur, ga, 5057chadwick ct.","16"
-"117626","236330","banbridge, ireland, ireland","NULL"
-"133282","251986","bellingham, washington, usa","53"
-"25853","67536","newberry, south carolina, usa","NULL"
-"31317","73000","***, n/a, france","NULL"
-"40051","81734","albuquerque, new mexico, usa","34"
-"96803","215507","san francisco, california, usa","25"
-"82711","171046","concord, north carolina, usa","29"
-"129798","248502","charleston, west virginia, usa","NULL"
-"33622","75305","montecosaro, marche, italy","NULL"
-"54983","109405","grebenstein, hessen, germany","NULL"
-"34982","76665","burbank, california, usa","38"
-"112433","231137","oviedo, asturias, spain","24"
-"108167","226871","halifax, nova scotia, canada","26"
-"44842","99264","new haven, connecticut, usa","19"
-"107896","226600","stornoway, scotland, united kingdom","55"
-"74462","128884","burlington, ontario,","NULL"
-"139880","278447","essen, nordrhein-westfalen, germany","NULL"
-"91525","210229","eindhoven, noord-brabant, netherlands","NULL"
-"11377","29957","sydney, new south wales, australia","27"
-"15570","34150","bennington, vermont, usa","NULL"
-"131863","250567","coventry, rhode island, usa","14"
-"8960","8960","auckland, auckland, new zealand","NULL"
-"37707","79390","oxford, england, united kingdom","NULL"
-"71775","126197","wellington, wellington, new zealand","NULL"
-"93143","211847","okahumpka, florida, usa","27"
-"104968","223672","lisburn, northern ireland, united kingdom","NULL"
-"118791","237495","singapore, singapore, singapore","16"
-"65907","120329","lamporecchio, toscana, italy","24"
-"108071","226775","richmond, virginia, usa","30"
-"41700","83383","san diego, california, usa","67"
-"81926","170261","boden, norrbotten, sweden","21"
-"1177","1177","milano, lombardia, italy","NULL"
-"94230","212934","oceanside, california, usa","28"
-"52375","106797","banyumas, alabama, indonesia","NULL"
-"102260","220964","newland, north carolina, usa","17"
-"21612","63295","thompsontown, pennsylvania, usa","40"
-"118139","236843","cascais, n/a, portugal","25"
-"13496","32076","calgary, alberta, canada","NULL"
-"78721","167056","sarasota (but ybor city has a better name), florida, usa","21"
-"105818","224522","london, n/a, united kingdom","30"
-"18827","60510","portland, oregon, usa","NULL"
-"35000","76683","sevilla, n/a, spain","18"
-"38719","80402","washington, dc, usa","NULL"
-"24595","66278","são paulo, são paulo, brazil","26"
-"121887","240591","milwaukee, wisconsin, usa","NULL"
-"139153","277720","double oak, texas, usa","63"
-"101796","220500","bristol, england, united kingdom","24"
-"7028","7028","münchen, bayern, germany","29"
-"63170","117592","beverly, massachusetts, usa","NULL"
-"93947","212651","saint louis, missouri, usa","13"
-"33278","74961","valencia, valencia, spain","30"
-"124014","242718","brookings, south dakota, usa","NULL"
-"27337","69020","silver spring, maryland, usa","26"
-"57309","111731","muskegon, michigan, usa","26"
-"73612","128034","tigard, oregon, usa","NULL"
-"108672","227376","holland, michigan, usa","31"
-"64940","119362","dortmund, nrw, germany","NULL"
-"17941","36521","farmington, michigan, usa","57"
-"84890","173225","galion, ohio, usa","34"
-"31096","72779","cagnò, trentino alto adige, italy","39"
-"91451","210155","dresden, sachsen, germany","37"
-"66216","120638","burnaby, british columbia, canada","15"
-"64999","119421","toronto, ontario, canada","32"
-"54659","109081","easton, pennsylvania, usa","21"
+User.ID,Location,Age
+33494,"st albans, england, united kingdom",NULL
+103659,"ojai, california, usa",NULL
+79342,"konya, n/a, turkey",19
+1644,"karachi, kentucky, pakistan",22
+108154,"pacific beach/san diego, california, usa",55
+220355,"monroeville, pennsylvania, usa",54
+2654,"san antonio, texas, usa",NULL
+101150,"edgerton, wisconsin, usa",NULL
+215271,"apo ae, new york, usa",52
+224555,"london, england, united kingdom",23
+109150,"detroit, michigan, usa",NULL
+103432,"waukesha, wisconsin, usa",14
+245809,"stow, massachusetts, usa",NULL
+115596,"morrisville, north carolina, usa",NULL
+245163,"bakersfield, california, usa",NULL
+122823,"sao paulo, n/a, brazil",46
+81806,"woodford green, england, united kingdom",42
+122750,"reykjanesbÃ¦r, n/a, iceland",NULL
+36412,"memphis, tennessee, usa",NULL
+71401,"hude, bremen, germany",53
+10286,"vigo, pontevedra, spain",22
+73325,"owen sound, ontario, canada",34
+225560,"philadelphia, pennsylvania, usa",43
+73061,"ingolstadt, bayern, germany",25
+214067,"andover, kansas, usa",38
+168245,"delisle, saskatchewan, canada",37
+249213,"cochrane, alberta, canada",18
+35905,"toronto, ontario, canada",NULL
+80852,"manchester, england, united kingdom",31
+8626,"kristianstad, skÃ¥ne, sweden",20
+106205,"seattle, washington, usa",18
+214582,"christies beach, south australia, australia",65
+108473,"rostock, mecklenburg-vorpommern, germany",22
+34455,"derby, n/a, united kingdom",23
+212830,"chicago, illinois, usa",NULL
+66123,"terre haute, indiana, usa",NULL
+104624,"rome, ,",24
+218165,"bangalore, na, india",NULL
+35518,"greenfield, massachusetts, usa",NULL
+251975,"eppstein, hessen, germany",30
+222053,"kilquiggan, tullow, co. carlow, ireland",53
+74282,"paris, n/a, france",28
+7636,"ann arbor, michigan, usa",31
+130579,"bakersfield, california, usa",20
+122848,"paris, n/a, france",NULL
+80451,"ulm, baden-wuerttemberg, germany",NULL
+236332,"basel, n/a, switzerland",NULL
+216638,"glens falls, new york, usa",NULL
+128008,"richmond, virginia, usa",29
+30914,"guyton, georgia, usa",22
+223577,"ottawa, ontario, canada",NULL
+113467,"pittsburgh, pennsylvania, usa",37
+274168,"whitehorse, yukon territory, canada",NULL
+167738,"bremerton, washington, usa",23
+33530,"corona, california, usa",NULL
+217735,"bellefontaine, ohio, usa",26
+107458,"adelaide, south australia, australia",NULL
+220394,"winston-salem, north carolina, usa",NULL
+1524,"brattleboro, vermont, usa",NULL
+4337,"cordoba, cordoba, argentina",44
+248751,"zurich, n/a, switzerland",NULL
+62927,"campbeltown, scotland, united kingdom",55
+67517,"auckland, n/a, new zealand",30
+74406,"sydney, new south wales, australia",NULL
+33891,"mount pearl, newfoundland, canada",NULL
+10153,"tomahawk, wisconsin, usa",NULL
+30504,"hungen, hessen, germany",NULL
+231243,"cincinnati, ohio, usa",NULL
+65069,"oslo, oslo, norway",40
+240707,"melbourne, victoria, australia",21
+123913,"manchester, england, united kingdom",38
+176082,"london, n/a, united kingdom",26
+66169,"pine bush, new york, usa",NULL
+98010,"portland, oregon, usa",13
+245406,"mansoura, mansoura, egypt",27
+248008,"shelton, washington, usa",44
+222341,"brisbane, queensland, australia",23
+30113,"seattle, washington, usa",29
+232282,"wheatley, ontario, canada",28
+73107,"notre dame de monts, pays de la loire, france",35
+113923,"burnaby, british columbia, canada",NULL
+240990,"norwich, england, italy",NULL
+209283,"yellowknife, northwest territories, canada",57
+110118,"key largo, florida, usa",NULL
+216309,"seoul, n/a, south korea",40
+3118,"grand blanc, michigan, usa",NULL
+30562,"victoria, british columbia, canada",NULL
+100431,"dÃ¼sseldorf, nordrhein-westfalen, germany",33
+170257,"olympia, washington, usa",59
+10288,"lagos, utah, nigeria",NULL
+225686,"daly city, california, usa",16
+234564,"barcelona, n/a, spain",31
+228637,"raleigh, north carolina, usa",37
+173394,"chicago, illinois, usa",NULL
+220804,"rochester, new york, usa",NULL
+177845,"antwerp, antwerp, belgium",31
+252296,"sÃ£o paulo, sÃ£o paulo, brazil",30
+174501,"austin, texas, usa",NULL
+130390,"london, england, united kingdom",NULL
+224911,"augsburg, bayern, germany",30
+121125,"santa ana, n/a, el salvador",40
+239618,"kuala lumpur, selangor, malaysia",51
+100753,"gÂ³ogÃ³w, dolno?lÂ¹skie, poland",NULL
+9298,"kannapolis, north carolina, usa",26
+216357,"salerno, campania, italy",31
+209762,"las vegas, nevada, usa",63
+241588,"morgan, vermont, usa",NULL
+242762,"bochum, nordrhein-westfalen, germany",23
+213915,"sheffield, s yorkshire, united kingdom",29
+244947,"stuart, florida, usa",NULL
+36431,"dayton, ohio, usa",32
+278395,"oakland, california, usa",NULL
+252300,"porto, n/a, portugal",24
+220680,"tampa, florida, usa",72
+63771,"santa cruz, n/a, portugal",26
+250472,"medford, oregon, usa",49
+172877,"san jose, san jose, costa rica",31
+220786,"heemstede, n-holland, netherlands",19
+113990,"milwaukee, wisconsin, usa",NULL
+243059,"minneapolis, minnesota, usa",NULL
+106317,"charleston,, west virginia, usa",NULL
+174814,"topeka, kansas, usa",NULL
+215442,"richmond, british columbia, canada",NULL
+100331,"maracaibo, zulia, venezuela",41
+178241,"spindale, north carolina, usa",NULL
+96761,"jarrow, tyne and wear, united kingdom",NULL
+117379,"rittman, ohio, usa",46
+83687,"bradenton, florida, usa",NULL
+68117,"denver, ,",44
+166163,"shropshire, england, united kingdom",30
+274475,"milano, lombardia, italy",NULL
+174279,"chico, california, usa",38
+103246,"beilstein, baden-wuerttemberg, germany",NULL
+227902,"makati city, philippines, pangasinan,,region 3, philippines",21
+83717,"adelaide, south australia, australia",NULL
+237483,"terry, mississippi, usa",NULL
+80300,"reading, england, united kingdom",23
+76395,"mar del plata, buenos aires, argentina",45
+167656,"revelstoke, british columbia, canada",30
+236309,"wellington, n/a, new zealand",NULL
+1561,"nashville, tennessee, usa",NULL
+102733,"seattle, washington, usa",38
+80938,"oak  island, north carolina, usa",76
+3332,"hartlepool, cleveland, united kingdom",54
+124864,"munic, bavaria, germany",NULL
+9057,"wellington, n/a, new zealand",41
+176573,"milwaukee, wisconsin,",32
+237000,"seffner, florida, usa",NULL
+250089,"riverside, california, usa",17
+108052,"tilburg, nebraska, netherlands",NULL
+99822,"amsterdam, alabama, netherlands",28
+113248,"kitchener, ontario, canada",NULL
+35392,"piacenza, emilia romagna, italy",25
+209579,"barcelona, catalunya, spain",46
+224147,"coimbra, coimbra, portugal",31
+123103,"mocksville, north carolina, usa",NULL
+167900,"perth, western australia, australia",26
+220283,"fort wayne, indiana, usa",28
+245761,"potsdam, brandenburg, germany",24
+216448,"high wycombe, buckinghamshire, united kingdom",32
+117367,"las vegas, nevada, usa",61
+242276,"phoenix, arizona, usa",NULL
+176522,"amarillo, texas, usa",55
+245645,"phoenix, arizona, usa",NULL
+276813,"sitges, barcelona, spain",29
+245031,"pasadena, california, usa",NULL
+274067,"cincinnati, ohio, usa",39
+8659,"roslindale, massachusetts, usa",NULL
+1326,"firenze, toscana, italy",37
+165698,"toronto, ontario, canada",47
+125252,"berlin, berlin, germany",NULL
+62655,"haifa, n/a, israel",36
+80961,"napoli, campania, italy",38
+247845,"wichita, kansas, usa",34
+240930,"madison, ohio, usa",61
+71882,"third lake, illinois, usa",46
+222661,"hickory, north carolina, usa",26
+273414,"orange, new jersey, usa",33
+117672,"derby, lazio, usa",40
+79274,"san diego, california, usa",NULL
+66796,"tunbridge wells, kent, united kingdom",21
+82329,"grenoble, california, france",49
+68220,"nashua, new hampshire, usa",NULL
+82966,"macedonia, ohio, usa",36
+73896,"houston, texas, usa",39
+7743,"desamparados, san josÃ©, costa rica",29
+168498,"ferrol, a coruÃ±a, spain",25
+275713,"falkÃ¶ping, vÃ¤stergÃ¶tland, sweden",NULL
+61498,"mishawaka, indiana, usa",NULL
+104070,"denia, espaÃ±a, spain",27
+97991,"berlin, berlin, germany",24
+108225,"largo, florida, usa",64
+74676,"portsmouth, hampshire, united kingdom",NULL
+103634,"kingston, new york, usa",19
+8487,"carrollton, texas, usa",30
+232400,"van buren, arkansas, usa",53
+274801,"bucharest, n/a, romania",28
+101802,"stockholm, stockholm, sweden",25
+227062,"phoenix, arizona, usa",39
+245259,"raleigh, north carolina, usa",NULL
+247480,"cannes, paca, france",28
+226195,"burnaby, british columbia, canada",51
+224013,"jacksonville, florida, usa",17
+165739,"san carlos, california, usa",40
+275303,"wanganui, n/a, new zealand",33
+76933,"houston, texas, usa",NULL
+166780,"lawrenceville, georgia, usa",NULL
+222507,"mountain view, california, usa",NULL
+3449,"rostock, mecklenburg-vorpommern, germany",26
+123773,"strassen, luxembourg, luxembourg",38
+32952,"sayville, new york, usa",NULL
+239543,"crystal lake, illinois, usa",24
+127602,"germantown, tennessee, usa",56
+80465,"soest, nordrhein-westfalen, germany",NULL
+106916,"leicestershire, england, united kingdom",19
+174457,"croydon, south australia, australia",51
+115349,"oakhurst, new jersey, usa",52
+237312,"cavezzo, emilia romagna, italy",28
+76276,"uppsala, uppsala, sweden",NULL
+81850,"prishtina, n/a, albania",NULL
+239864,"marina del rey, california, usa",36
+246278,"grottazzolina ap, marche, italy",NULL
+211173,"oxford, england, united kingdom",25
+237264,"cairo, n/a, egypt",35
+74014,"oslo, n/a, norway",28
+78175,"el paso, texas, usa",51
+170929,"baltimore, maryland, usa",NULL
+64773,"manchester, connecticut, usa",NULL
+175162,"glendale, arizona, usa",39
+218002,"tehran, n/a, iran",25
+243534,"pacifica, california, usa",NULL
+234055,"st. clair shores, michigan, usa",35
+66759,"bayshore, new york, usa",NULL
+244716,"cottontown, tennessee, usa",NULL
+110385,"darmstadt, hessen, germany",35
+72099,"el cajon, ,",41
+232654,"ferguson, missouri, usa",18
+127720,"swansboro, north carolina, usa",23
+245970,"westwego, louisiana, usa",NULL
+125336,"kelseyville, california, usa",NULL
+122825,"vancouver, british columbia, canada",NULL
+219384,"pacific palisades, california, usa",NULL
+29718,"zuerich, n/a, switzerland",28
+172448,"columbia, missouri, usa",NULL
+97589,"ottawa, ontario, canada",62
+113342,"shreveport, louisiana, usa",61
+173343,"westminster, maryland, usa",NULL
+246790,"flushing, new york, usa",NULL
+220169,"aberystwyth, wales, united kingdom",NULL
+213538,"ft. lauderdale, florida, usa",46
+108445,"chapman ranch, texas, usa",43
+224363,"lisbon, ohio, usa",NULL
+125935,"lynchburg, virginia, usa",20
+98441,"athens, , greece",22
+96718,"montgomery, alabama, usa",NULL
+247266,"middleburg, florida, usa",35
+243264,"hno:25-21/6,eastanandbagh,malkajgiri,hyderabad, ap, india",NULL
+252190,"navarre, florida, usa",NULL
+100815,"vancouver, british columbia, canada",30
+128372,"shengzhen, shengzhen state, china",22
+62157,"oxford, n/a, united kingdom",64
+210891,"barcelona, barcelona, spain",27
+172118,"san diego, california, usa",NULL
+246002,"windsor, ontario, canada",NULL
+221384,"tampere, pirkanmaa, finland",35
+60356,"painesville, ohio, usa",41
+209217,"lomita, california, usa",24
+174353,"hialeah, florida, usa",22
+213746,"marseille, marseille, france",34
+217367,"beaverton, oregon, usa",NULL
+77245,"memphis, tennessee, usa",41
+121712,"santa rita do passa quatro, sÃ£o paulo, brazil",33
+118796,"quakertown, pennsylvania, usa",NULL
+74665,"new bedford, massachusetts, usa",NULL
+213552,"berkeley, california, usa",NULL
+225193,"new delhi, n/a, india",28
+111064,"nÃ¼rnberg, bayern, germany",NULL
+114125,"williamston, south carolina, usa",29
+9653,"barcelona, catalunya, spain",33
+71166,"auckland, akl, new zealand",NULL
+272772,"bloomington, illinois, usa",20
+233815,"stafford heights, queensland, australia",41
+30041,"toronto, ontario, canada",55
+331,"buenos aires, buenos aires, argentina",60
+222687,"san diego, california, usa",NULL
+10482,"cologne, northrhine westfalia, germany",NULL
+65674,"madison, indiana, usa",24
+34939,"christchurch, n/a, new zealand",42
+250864,"iron, minnesota, usa",NULL
+106546,"amsterdam, n/a, netherlands",NULL
+249912,"kirkwood, missouri, usa",26
+121705,"getxo, espaÃ±a, spain",59
+68328,"winnenden, baden-wuerttemberg, germany",32
+9212,"tlell, british columbia, canada",30
+8922,"dÃ¼sseldorf, nordrhein-westfalen, germany",26
+170819,"sidney, british columbia, canada",NULL
+170587,"blacksburg, south carolina, usa",51
+237777,"portland, oregon, usa",NULL
+83405,"apple valley, california, usa",67
+171077,"manchester, connecticut, usa",41
+107523,"north hollywood, california, usa",NULL
+101298,"eagleville, tennessee, usa",NULL
+277865,"belgrade, serbia, yugoslavia",59
+111677,"mesa, arizona, usa",NULL
+239456,"casale monferrato, piemonte, italy",26
+131267,"brisbane, brisbane, australia",NULL
+249027,"cheraw, south carolina, usa",35
+231087,"naples, florida, usa",13
+237646,"rockville, maryland, usa",56
+66736,"berkeley, california, usa",21
+213919,"oakland, ,",NULL
+121546,"clearlake, minnesota, usa",NULL
+97495,"brisbane, queensland, australia",24
+225065,"garland, texas, usa",21
+8479,"kissimmee, florida, usa",31
+30220,"hatboro, pennsylvania, usa",NULL
+223417,"surrey, cobham, united kingdom",33
+238709,"ingolstadt, bayern, germany",NULL
+119894,"bristol, somerset, united kingdom",29
+171306,"genova, liguria, italy",38
+171385,"la coruÃ±a, galicia, spain",28
+223516,"carollton, georgia, usa",53
+167018,"san jose, california, usa",24
+78622,"abergavenny, wales, united kingdom",20
+104308,"miami beach, florida, usa",23
+127305,"london, england, united kingdom",NULL
+34172,"sevilla, andalucia, spain",26
+211056,"huelva, andalucia, spain",38
+9358,"victoria, illinois, usa",42
+217754,"jacksonville, florida, usa",NULL
+212111,"tampere, n/a, finland",19
+79901,"oldenburg, niedersachsen, germany",37
+248335,"cherry hill, new jersey, usa",NULL
+129471,"pine grove, louisiana, usa",NULL
+2051,"sestri levante, liguria, italy",NULL
+230225,"san antonio, texas, usa",13
+166563,"voorhees, new jersey, usa",30
+213455,"baltimore, maryland, usa",NULL
+10025,"gulf breeze, florida, usa",NULL
+61120,"augusta county, virginia, usa",39
+167475,"ingersoll, ontario, canada",NULL
+32409,"viseu, portugal, portugal",13
+32969,"mears, virginia, usa",47
+32037,"hobart, indiana, usa",42
+247063,"sidney, british columbia, canada",NULL
+113409,"chloride, arizona, usa",NULL
+67442,"puget sound, washington, usa",32
+125661,"seattle, washington, usa",49
+126132,"tuscaloosa, alabama, usa",53
+103984,"rapid city, south dakota, usa",NULL
+249623,"beaumont, texas, usa",NULL
+237938,"fairfax, virginia, usa",62
+2090,"dudley, massachusetts, usa",28
+167917,"naples, florida, usa",NULL
+61131,"rome, lazio, italy",27
+227740,"concord, california, usa",31
+241569,"nanaimo, british columbia, canada",NULL
+33807,"cedar  rapids, iowa, usa",NULL
+235127,"yamuna nagar, haryana, india",NULL
+212123,"san francisco, california, usa",NULL
+243033,"south wales, wales, united kingdom",18
+69034,"bochum, nrw, germany",NULL
+3152,"calgary, alberta, canada",50
+209725,"vancouver, british columbia, canada",NULL
+83546,"cardiff, wales, united kingdom",60
+170673,"portland, oregon, usa",32
+174885,"west des moines, iowa, usa",37
+98203,"isle of wight, england, united kingdom",20
+225390,"bonn, nordrhein-westfalen, germany",30
+129797,"barcelona, barcelona, spain",30
+245410,"san antonio, texas, usa",28
+34231,"brisbane, queensland, australia",35
+112460,"markelo, overijssel, netherlands",43
+106201,"columbia, missouri, usa",NULL
+125161,"minneapolis, minnesota, usa",25
+102750,"west vancouver, british columbia, canada",NULL
+118203,"nepean, ontario, canada",NULL
+72349,"mantova, lombardia, italy",24
+234712,"valencia, n/a, spain",48
+108956,"borgo ticino, piemonte, italy",25
+175826,"olds, alberta, canada",27
+176426,"reston, virginia, usa",46
+61914,"granada, andalucia, spain",26
+241408,"san jose, california, usa",NULL
+62236,"kuala lumpur, n/a, malaysia",28
+247491,"jacksonville, florida, usa",NULL
+238521,"horsham, pennsylvania, usa",34
+1219,"taiping, perak, malaysia",17
+246319,"zaandam, wisconsin, netherlands",NULL
+214600,"sherbrooke, quebec, canada",24
+109237,"barcelona, barcelona, spain",27
+122004,"edmonds, washington, usa",51
+123459,"livermore, california, usa",NULL
+156726,"clearwater, florida, usa",NULL
+6610,"mobile, alabama, usa",52
+246572,"chicago, illinois, usa",41
+116479,"seattle, washington, usa",28
+127361,"lewistown, pennsylvania, usa",45
+228465,"new brunswick, new jersey, usa",NULL
+99792,"oswego, new york, usa",50
+115274,"paris, n/a, france",31
+130041,"fraser, michigan, usa",NULL
+98183,"creston,, british columbia, canada",70
+81457,"tswane, gauteng, south africa",24
+113119,"bath, england, united kingdom",42
+65491,"greenville, south carolina, usa",NULL
+125406,"augsburg, bayern, germany",NULL
+5694,"lake forest, california, usa",43
+111406,"castlerock, northern ireland, united kingdom",31
+223128,"hartselle, alabama, canada",52
+171326,"toronto, ,",27
+33650,"coral springs, florida, usa",NULL
+169636,"dexter, michigan, usa",51
+216003,"cardiff, wales, united kingdom",25
+220049,"san jose, campania, usa",49
+250400,"regina, saskatchewan, canada",NULL
+233027,"alpena, michigan, usa",NULL
+171151,"gdansk, pomorskie, poland",23
+119836,"fullerton, california, usa",NULL
+172097,"marbella, malaga, spain",37
+32462,"dÃ¼sseldorf, nordrhein-westfalen, germany",35
+174075,"bedburg hau, nrw, germany",NULL
+273395,"barcelona, catalunya, spain",24
+228936,"newton, massachusetts, usa",NULL
+129706,"duncan, british columbia, canada",17
+107990,"smithfield, north carolina, usa",NULL
+216465,"albury, new south wales, australia",43
+78006,"modesto, california, usa",25
+129998,"avon, connecticut, usa",19
+73902,"spanish fork, utah, usa",38
+130600,"gardena, california, usa",45
+129784,"florissant, missouri, usa",NULL
+124248,"tampa, florida, usa",NULL
+64006,"edmonton, alberta, canada",NULL
+34679,"owings mills, maryland, usa",31
+232750,"vancouver, british columbia, canada",NULL
+67273,"eugene, oregon, usa",NULL
+246131,"frankfurt a. m., hessen, germany",55
+62115,"san miguel de allende, gto., mexico",NULL
+230134,"bussero (milano), lombardia, italy",41
+250135,"fort lauderdale, florida, usa",65
+117505,"pittsburgh, pennsylvania, usa",43
+215696,"sittingbourne, england, united kingdom",47
+119470,"frankfurt am main, hessen, germany",25
+106904,"peterborough, england, united kingdom",NULL
+166720,"la grange, illinois, usa",29
+174310,"milano, lombardia, italy",52
+273481,"sydney, new south wales, australia",23
+240380,"o`fallon, illinois, usa",14
+68155,"munich, bavaria, germany",29
+272563,"elmira, new york, usa",19
+238487,"exeter, england, united kingdom",22
+33053,"ottawa, ontario, canada",21
+64982,"sellersville, pennsylvania, usa",NULL
+61731,"ulm, schwaben, germany",NULL
+273287,"edinburgh, scotland, united kingdom",22
+227990,"merritt island, fl, florida, usa",63
+126699,"virginia beach, virginia, usa",29
+167813,"chicago, illinois, usa",28
+6255,"istanbul, n/a, turkey",18
+9403,"hastings, nebraska, usa",35
+101991,"boca raton, florida, usa",81
+219423,"flushing, new york, usa",NULL
+60814,"bochum, nordrhein-westfalen, germany",27
+65875,"boston, massachusetts, usa",33
+66444,"barcelona, catalunya, spain",33
+70314,"victoria, british columbia, canada",23
+69770,"virginia beach, virginia, usa",NULL
+111853,"leeds, england, united kingdom",40
+3250,"detroit, michigan, usa",NULL
+251022,"chicago, illinois, usa",NULL
+177805,"coon rapids, minnesota, usa",NULL
+6273,"camerota (sa), campania, italy",NULL
+100461,"christchurch, canterbury, new zealand",NULL
+119134,"brighton, england, united kingdom",38
+246995,"harrisburg, illinois, usa",19
+112289,"rochester, illinois, usa",48
+124725,"kassel, hessen, germany",NULL
+225786,"boone, iowa, usa",50
+123479,"decatur, alabama, usa",NULL
+104038,"1,tebuk tukang emas,bagan datoh, perak, n/a, malaysia",22
+64776,"bellevue, nebraska, usa",NULL
+172588,"fredericton, ,",42
+9040,"bogota, bogota, colombia",23
+103764,"o`fallon, missouri, usa",28
+74311,"morrisville, north carolina, usa",NULL
+32060,"melaka, melaka, malaysia",26
+96774,"bellaria, romagna, italy",NULL
+104841,"melbourne, victoria, australia",29
+61555,"canberra, australian capital territory, australia",21
+166463,"norwood, massachusetts, usa",28
+4834,"eindhoven, noord brabant, netherlands",NULL
+226948,"hanover, pennsylvania, usa",NULL
+70155,"wittenburg, nova scotia, canada",63
+98247,"riachos, portugal-ribatejo, portugal",19
+98527,"bologna, emilia romagna, italy",28
+214230,"saskatoon, saskatchewan, canada",NULL
+275351,"new york, new york, usa",NULL
+80967,"pisa, pisa, italy",32
+272778,"mount sterling, ohio, usa",NULL
+1505,"nottingham, england, united kingdom",25
+232684,"trinity, north carolina, usa",49
+82103,"anacortes, washington, usa",37
+123694,"glasgow, scotland, united kingdom",22
+76034,"high legh knutsford, cheshire, united kingdom",NULL
+236609,"nb, nb, china",NULL
+71038,"temecula, california, usa",51
+71144,"firenze, ,",NULL
+178199,"amarillo, texas, usa",NULL
+2193,"kÃ¶ln, nordrhein-westfalen,",NULL
+111088,"london, london, united kingdom",25
+216998,"durban, natal, south africa",36
+7039,"south bend, indiana, usa",22
+112690,"eschweiler, nordrhein-westfalen, germany",NULL
+78419,"bremen, bremen, germany",NULL
+590,"mÃ¼nster, n/a, germany",NULL
+125897,"hpuston, texas, usa",NULL
+892,"austin, texas, usa",NULL
+178330,"ottawa, ontario, canada",NULL
+168880,"atlanta, georgia, usa",NULL
+231429,"lynchburg, virginia, usa",28
+220351,"san francisco, ,",NULL
+240667,"rÃ¼ti, zurich, switzerland",NULL
+277564,"durham, north carolina, usa",NULL
+109963,"madison, wisconsin, usa",NULL
+130787,"pittsfield, massachusetts, usa",50
+102904,"roquebrune cap martin, france, france",NULL
+59877,"bellingham, washington, usa",21
+278782,"larnaca, n/a, cyprus",NULL
+35844,"burnley, ``n/a``.), united kingdom",17
+234980,"treviso, veneto, italy",28
+70561,"portland, texas, usa",23
+119456,"phoenixville, pennsylvania, usa",34
+237330,"columbus, ohio, usa",41
+645,"ottawa, ontario, canada",NULL
+118610,"uppsala, uppsala, sweden",NULL
+77919,"london, england, united kingdom",46
+227666,"anglesey, wales, united kingdom",20
+82952,"laredo, texas, usa",NULL
+217470,"toronto, ontario, canada",17
+113988,"livonia, michigan, usa",NULL
+106373,"tahlequah, oklahoma, usa",24
+68817,"pratt, kansas, usa",NULL
+61811,"sabadell, barcelona, spain",30
+249670,"bethlehem, pennsylvania, usa",35
+228832,"london, england, united kingdom",NULL
+107413,"bronx, new york, usa",24
+69610,"new lebanon, ohio, usa",19
+117864,"hollywood, florida, usa",36
+71292,"aydin, kusadasi, turkey",45
+167850,"charlottesville, virginia, usa",40
+108368,"charlotte, n., usa",NULL
+76197,"oak park, illinois, usa",NULL
+59902,"london, n/a, united kingdom",29
+8404,"singapore, alabama, singapore",66
+73982,"augutsa, georgia, usa",33
+217137,"london, england, united kingdom",NULL
+83018,"lexington, kentucky, usa",21
+65428,"houston, texas, usa",49
+216518,"guildford, england, united kingdom",NULL
+272638,"paris, ile-de-france, france",27
+218692,"northfield, minnesota, usa",42
+67932,"lauf, bayern, germany",18
+169758,"sacramento, california, usa",18
+223634,"gibsons, british columbia, canada",47
+169432,"bonham, texas, usa",NULL
+278033,"manchester, new hampshire, usa",54
+251530,"wellington, wellington, new zealand",53
+169118,"o`neill, nebraska, usa",NULL
+9188,"washougal, washington, usa",NULL
+226787,"antioch, illinois, usa",33
+233809,"anchorage, alaska, usa",58
+115264,"toronto, ontario, canada",19
+176405,"m, n/a, netherlands",NULL
+34558,"baraÃ±ain, navarra, spain",24
+221217,"medford, oregon, usa",NULL
+71822,"essendon, victoria, australia",47
+118499,"frankfurt, hessen, germany",NULL
+228420,"watauga, texas, usa",16
+107113,"seattle, washington, usa",NULL
+30196,"alhambra, california, usa",NULL
+111944,"mannford, oklahoma, usa",23
+274950,"hamburg, hamburg, germany",NULL
+62934,"biloxi, mississippi, usa",NULL
+237541,"portland, oregon, usa",53
+112010,"dublin, n/a, ireland",NULL
+61204,"lincoln, nebraska, usa",41
+126437,"houston, , usa",33
+170368,"springfield, missouri, usa",51
+175897,"mungia, euskadi, spain",26
+277992,"mt lawley, western australia, australia",26
+32734,"bruxelles, bruxelles, belgium",22
+240374,"frosinone, lazio, italy",NULL
+116982,"madrid, madrid, spain",48
+64551,"glen waverley, victoria, australia",NULL
+120193,"sankt augustin, nordrhein-westfalen, germany",47
+222169,"dorsten, nordrhein-westfalen, germany",20
+108868,"stafford, virginia, usa",16
+79309,"torino, piemonte, italy",44
+278182,"sacramento, california, usa",42
+127214,"reggioemilia, emilia romagna, italy",NULL
+241780,"atlanta, georgia, usa",35
+238380,"east lansing, michigan, usa",NULL
+233497,"miami, florida, usa",NULL
+225051,"foster city, california, usa",NULL
+129692,"trogir, n/a, croatia",21
+244297,"munich, n7a, germany",NULL
+231799,"haifa, n/a, israel",29
+3026,"kuala lumpur, kuala lumpur, malaysia",NULL
+227757,"pittsburgh, pennsylvania, usa",32
+167569,"vancouver, british columbia, canada",NULL
+276792,"boise, idaho, usa",44
+102851,"hamilton, ontario, canada",24
+174050,"venice, veneto, italy",32
+241899,"subang jaya, selangor darul ehsan, malaysia",1
+210115,"molkom, vÃ¤rmland, sweden",17
+31947,"conway, arkansas, usa",50
+97725,"neumarkt, bayern, germany",50
+110144,"diemen, noord holland, netherlands",NULL
+115567,"nashville, tennessee, usa",28
+3687,"muchacha, alabama, usa",17
+7430,"milano, milano, italy",NULL
+106945,"chilliwack, british columbia, canada",19
+231347,"aloha, oregon, usa",37
+117079,"olympia, washington, usa",60
+229430,"cologne, nordrhein-westfalen, germany",23
+210442,"el segundo, california, usa",NULL
+221968,"portland, maine, usa",25
+250633,"birmingham, west midlands, united kingdom",22
+72155,"essen, n/a, germany",27
+215840,"london, ontario, canada",NULL
+125206,"buenos aires, buenos aires, argentina",32
+223178,"kaneohe, hawaii, usa",45
+129160,"lansing, michigan, usa",NULL
+277533,"aloha, oregon, usa",NULL
+83130,"carlinville, illinois, usa",53
+70327,"torreira, aveiro, portugal",2
+32010,"bloomfield hills, michigan, usa",NULL
+222837,"columbus, georgia, usa",NULL
+34321,"reno, nevada, usa",17
+223030,"fairfield, connecticut, usa",NULL
+107340,"sacramento, california, usa",54
+68967,"glenbrook, new south wales, australia",16
+225725,"bruxelles, bxl, belgium",28
+8217,"camrose, alberta, canada",NULL
+169342,"brookline, massachusetts, usa",38
+62895,"chesterfield, derbyshire, united kingdom",39
+272737,"federal way, washington, usa",NULL
+247018,"juneau, alaska, usa",NULL
+110641,"healdsburg, california, usa",NULL
+31902,"levittown, new york, usa",40
+172990,"ottawa, ontario, canada",43
+227031,"melbourne, victoria, australia",33
+116296,"nashville, tennessee, usa",NULL
+69595,"shoreview, minnesota, usa",29
+220969,"columbia, south carolina, usa",50
+216964,"tauranga, bay of plenty, new zealand",57
+29807,"agrate brianza, lombardia, italy",27
+251269,"lexington, kentucky, usa",NULL
+240405,"indian orchard, massachusetts, usa",29
+251977,"auckland, n/a, new zealand",24
+3847,"boulder, colorado, usa",NULL
+110205,"mount eliza, victoria, australia",75
+177700,"adelaide, south australia, australia",54
+171098,"crawley, england, united kingdom",36
+7857,"catamarca, catamarca, argentina",33
+128797,"annandale, virginia, usa",NULL
+121909,"cambridge, england, united kingdom",NULL
+243092,"bowen mt, new south wales, australia",48
+251773,"duncan, british columbia, canada",NULL
+227168,"moraga, california, usa",17
+107384,"orlando, florida, usa",32
+178574,"seattle, washington, usa",34
+274112,"ch-thun, kanton bern, switzerland",NULL
+120183,"barranquilla, atlantico, colombia",20
+221095,"saskatoon, saskatchewan, canada",NULL
+31081,"south orange, new jersey, usa",20
+79989,"champaign, illinois, usa",NULL
+232398,"calgary, alberta, canada",NULL
+177457,"massillon, ohio, usa",NULL
+79192,"milan, lombardia, italy",33
+168419,"melbourne, victoria, australia",26
+166318,"forest grove, oregon, usa",NULL
+74442,"milano, lombardia, italy",29
+235648,"jackson, michigan, usa",19
+113090,"dallas, texas, usa",35
+126322,"ottawa, ontario, canada",38
+215602,"calgary, alberta, canada",NULL
+63946,"cologne, nordrhein-westfalen, germany",25
+77255,"duisburg, nordrhein-westfalen, germany",NULL
+10557,"louisville, kentucky, usa",37
+75227,"cary, north carolina, usa",54
+99852,"velbert, nordrhein-westfalen, germany",53
+70984,"east brunswick, new jersey, usa",57
+223171,"williamsburg, virginia, usa",NULL
+110145,"new york, new york, usa",40
+172434,"melbourne, victoria, australia",19
+70889,"sao carlos, sao paulo, brazil",26
+75804,"orange county, california, usa",NULL
+122826,"edinburgh, scotland, united kingdom",27
+73266,"seatac, washington, usa",57
+111371,"milford, michigan, usa",52
+214187,"fraziers bottom, west virginia, usa",61
+251007,"guildford, england, united kingdom",NULL
+99313,"lake oswego, oregon, usa",35
+171500,"hollywood, california, usa",33
+177364,"silver spring, maryland, usa",27
+231667,"sydney, new south wales, australia",30
+251882,"b, manitoba, canada",19
+77896,"austin, texas, usa",25
+173072,"melaka, ,",22
+171166,"peculiar, missouri, usa",24
+217132,"harriman, new york, usa",NULL
+221252,"sheffield, england, united kingdom",39
+66063,"portland, maine, usa",60
+121919,"kincardine o`neil, scotland, united kingdom",64
+242191,"st. petersburg, florida, usa",NULL
+251519,"birmingham, alabama, usa",38
+209793,"peterborough, ontario, canada",NULL
+244366,"sidney, montana, usa",NULL
+273584,"tel aviv, tel aviv, israel",28
+226116,"iran-isfahan, i am iranian, iran",33
+33482,"gridley, illinois, usa",NULL
+5565,"lavington, new south wales, australia",37
+123605,"san diego, california, usa",NULL
+81672,"york, pennsylvania, usa",NULL
+239819,"cardiff, wales, united kingdom",NULL
+228240,"austin, texas, usa",24
+83475,"olympia, washington, usa",69
+130450,"surrey, ,",NULL
+230785,"weaubleau, missouri, usa",54
+237159,"verdun, quebec, canada",27
+244641,"san diego, , usa",NULL
+4880,"maintal, hessen, germany",34
+130107,"chinle, arizona, usa",30
+224622,"surabaya, jawa timur, indonesia",20
+232479,"stowmarket, suffolk, united kingdom",37
+173467,"hollywood, california, usa",NULL
+245210,"terre haute, indiana, usa",NULL
+278115,"lugano, tessin, la svizzera",NULL
+220616,"memphis, tennessee, usa",42
+78377,"mantova, lombardia, italy",NULL
+80606,"roma, rm, italy",55
+211590,"sheffield, united kingdom, united kingdom",28
+35845,"rochester, new hampshire, usa",NULL
+121314,"hereford, texas, usa",NULL
+1697,"bellevue, washington, usa",NULL
+122229,"carnforth, lancashire, united kingdom",NULL
+251287,"los angeles, california, usa",40
+101038,"south bend, indiana, argentina",NULL
+120751,"san clemente, california, usa",NULL
+68789,"albuquerque, new mexico, usa",13
+223169,"harrisburg, illinois, usa",NULL
+232179,"richmond, virginia, usa",NULL
+74794,"stratford upon avon, england, united kingdom",32
+226734,"greenville, mississippi, usa",NULL
+67398,"san luis potosi, san luis potosi, mexico",18
+241071,"jefferson city, missouri, usa",NULL
+61237,"delta, colorado, usa",NULL
+66420,"xirivella, valencia, spain",30
+29651,"kew, victoria, australia",NULL
+128474,"beograd, wales, yugoslavia",26
+215242,"marysville, washington, usa",NULL
+228185,"frankfurt, hessen, germany",NULL
+97328,"portland, oregon, usa",NULL
+31981,"berlin, berlin, germany",37
+120675,"crescent city, california, usa",45
+34452,"mayfield, kentucky, usa",32
+104616,"houston, texas, usa",NULL
+210020,"houston, texas, usa",25
+169082,"lawrenceville, georgia, usa",21
+83424,"goettingen, lower saxony, germany",NULL
+276789,"edinburgh, scotland, united kingdom",25
+106539,"dorchester, england, united kingdom",38
+276104,"montpellier, herault, france",24
+106752,"menlo park, california, usa",43
+29947,"woonsocket, rhode island, usa",NULL
+237184,"melbourne, victoria, australia",NULL
+125249,"milan, lombardia, italy",NULL
+82165,"vila velha, es, brazil",NULL
+31523,"buranda, queensland, australia",22
+174072,"austin, texas, usa",NULL
+236275,"leslie, michigan, usa",28
+71947,"chicago, illinois, usa",NULL
+67758,"palm bay, florida, usa",27
+35070,"elk grove, california, usa",54
+4230,"riverton, utah, usa",NULL
+219992,"vancouver, british columbia, canada",NULL
+248351,"morsbach, nordrhein-westfalen, germany",NULL
+130781,"wiener neustadt, niederoesterreich, austria",29
+9553,"beckley, west virginia, usa",31
+1984,"zug, n/a, switzerland",NULL
+227680,"hauppauge, new york, usa",24
+209944,"louisville, kentucky, usa",51
+9176,"alexandria, virginia, usa",37
+131302,"huelva, andalucia, espaÃ±a, alaska, usa",16
+107662,"west palm beach, florida, usa",15
+72678,"amsterdam, noord holland, netherlands",NULL
+8803,"west linn, oregon, usa",NULL
+124929,"sacramento, california, usa",43
+111528,"pittsburgh, pennsylvania, usa",NULL
+232097,"las cruces, new mexico, usa",NULL
+170347,"las vegas, nevada, usa",NULL
+66068,"arlington, virginia, usa",NULL
+173043,"london, ontario, canada",NULL
+246049,"portola hills, california, usa",NULL
+175476,"hamburg, hamburg, germany",NULL
+227115,"durham, north carolina, usa",NULL
+356,"leesburg, virginia, usa",NULL
+78285,"rosedale, indiana, usa",NULL
+109921,"san diego, california, usa",NULL
+79316,"arezzo, toscana, italy",NULL
+101348,"london, london, united kingdom",NULL
+108778,"juist, niedersachsen, germany",NULL
+75191,"chicago, illinois, usa",26
+215259,"lleida, catalunya, spain",33
+63178,"hamburg, ,",48
+124025,"cologne, nordrhein-westfalen, germany",34
+101114,"rochester, new york, usa",NULL
+120357,"sioux center, iowa, usa",22
+4292,"weehawken, new jersey, usa",NULL
+99389,"london, london, united kingdom",NULL
+74658,"legazpi, legazpi, philippines",18
+67906,"chicago, illinois, usa",NULL
+216677,"dortmund, nordrhein-westfalen, germany",24
+129803,"stuttgart, baden-wurttemberg, germany",NULL
+169507,"virginia beach, virginia, usa",19
+220882,"lacey, washington, usa",39
+166164,"york, yorkshire, united kingdom",NULL
+212515,"imola, emilia romagna, usa",NULL
+123409,"pembroke pines, florida, usa",NULL
+116574,"baton rouge, louisiana, usa",NULL
+225980,"durham, new hampshire, usa",NULL
+218742,"woodland park, colorado, usa",57
+236613,"auckland, n/a, new zealand",NULL
+126500,"oceanside, california, usa",47
+225454,"mentor, ohio, usa",70
+237854,"mineral wells, texas, usa",NULL
+245686,"adelaide, south australia, australia",44
+235903,"london, england, united kingdom",NULL
+66103,"lakeland, florida, usa",35
+62066,"irvington, new jersey, usa",16
+174705,"los angeles (brentwood), california, usa",31
+107414,"ourense, ourense, spain",27
+278654,"marostica, veneto, l`italia",NULL
+213120,"snow lake, manitoba, canada",NULL
+175626,"jena, thueringen, germany",26
+222299,"mandan, north dakota, usa",55
+227074,"kenmore, washington, usa",50
+219941,"merritt island, florida, usa",NULL
+67300,"melbourne, victoria, australia",28
+226506,"austin, texas, usa",NULL
+129832,"chandigarh, chd, india",24
+60799,"berkeley, california, usa",22
+224728,"minneapolis, minnesota, usa",49
+235023,"zagreb, n/a, croatia",20
+10170,"san francisco, california, usa",NULL
+278854,"portland, oregon, usa",NULL
+230616,"calgary, alberta, canada",31
+169188,"freeburg, pennsylvania, usa",NULL
+252091,"moore, south carolina, usa",50
+10137,"duesseldorf, nordrhein-westfalen, germany",57
+217696,"rotterdam, zuid holland, netherlands",NULL
+7500,"bangkok, bangkok, thailand",20
+236058,"san francisco, california, usa",34
+68919,"roma, lazio, italy",NULL
+216220,"thurmont, maryland, usa",34
+97251,"funchal, madeira, portugal",25
+4819,"tel aviv, n/a, israel",NULL
+227239,"poteau, oklahoma, usa",30
+123964,"modena, emilia-romagna, italy",36
+97428,"vancouver, british columbia, canada",NULL
+123714,"dayton, ohio, usa",47
+61989,"newtown, pennsylvania, usa",0
+173153,"north vancouver, british columbia, canada",NULL
+66373,"skokie, illinois, usa",NULL
+114798,"jacksonville, florida, usa",35
+5826,"duisburg, nordrhein-westfalen, germany",NULL
+60466,"memphis, tennessee, usa",NULL
+126908,"portland, oregon, usa",48
+177134,"ottawa, ontario, canada",32
+210260,"asheville, north carolina, vietnam",NULL
+79153,"galax, virginia, usa",NULL
+214305,"lisboa, lisboa, portugal",NULL
+219323,"sainte-foy, quebec, canada",NULL
+230491,"montreal, quebec, canada",NULL
+210413,"courtice, ontario, canada",NULL
+221695,"selkirk, manitoba, canada",NULL
+243425,"salmon arm, british columbia, canada",NULL
+168447,"palmerston north, manawatu, new zealand",70
+5355,"ascot, england, united kingdom",NULL
+64021,"toronto, ontario, canada",19
+174616,"wichita, kansas, usa",29
+107309,"dixon, california, usa",NULL
+71582,"bonn, nordrhein-westfalen, germany",37
+4644,"jagodina, n/a, yugoslavia",23
+60877,"karlsruhe, baden-wuerttemberg, germany",29
+119795,"verona, veneto, italy",37
+229853,"ortona, chieti, italy",NULL
+82054,"greenacres, florida, usa",37
+127885,"toholampi, n/a, finland",NULL
+112119,"delhi, n/a, indonesia",23
+10583,"national city, california, usa",39
+240428,"phoenix, arizona, usa",50
+2822,"chiesina uzzanese, toscana, italy",37
+109075,"sydney, new south wales, australia",19
+111237,"houston, texas, usa",NULL
+125874,"london, n/a, united kingdom",NULL
+65129,"mumbai, mah, india",NULL
+113820,"kraljevo, yu,",NULL
+65207,"columbia station, ohio, usa",20
+9109,"perth, western australia, australia",31
+64502,"alameda, california, usa",NULL
+109538,"saint louis, missouri, usa",NULL
+234160,"columbia, south carolina, usa",NULL
+234935,"hermitage, tennessee, usa",NULL
+220129,"bastogne, luxembourg, belgium",17
+175936,"bristol, england, united kingdom",NULL
+97076,"basel, basel, switzerland",NULL
+8993,"tagbilaran city, bohol, philippines",20
+70612,"crystal lake, illinois, usa",47
+74422,"sydney, new south wales, australia",21
+219526,"jamesport, new york, usa",NULL
+244674,"scotch creek, british columbia, canada",NULL
+170846,"dubuque, iowa, usa",NULL
+125572,"khuzdar, balochistan, pakistan",25
+236334,"minneapolis, minnesota, usa",NULL
+242455,"boppard, rheinland-pfalz, germany",32
+175257,"tolland, ,",NULL
+104548,"dillingen, saarland, germany",45
+113306,"knoxville, tennessee, usa",19
+78761,"heide, schleswig-holstein, germany",34
+215384,"hendersonville, north carolina, usa",NULL
+174886,"san clemente, california, usa",NULL
+73765,"madrid, n/a, spain",52
+116438,"decatur, ga, 5057chadwick ct.",16
+236330,"banbridge, ireland, ireland",NULL
+251986,"bellingham, washington, usa",53
+67536,"newberry, south carolina, usa",NULL
+73000,"***, n/a, france",NULL
+81734,"albuquerque, new mexico, usa",34
+215507,"san francisco, california, usa",25
+171046,"concord, north carolina, usa",29
+248502,"charleston, west virginia, usa",NULL
+75305,"montecosaro, marche, italy",NULL
+109405,"grebenstein, hessen, germany",NULL
+76665,"burbank, california, usa",38
+231137,"oviedo, asturias, spain",24
+226871,"halifax, nova scotia, canada",26
+99264,"new haven, connecticut, usa",19
+226600,"stornoway, scotland, united kingdom",55
+128884,"burlington, ontario,",NULL
+278447,"essen, nordrhein-westfalen, germany",NULL
+210229,"eindhoven, noord-brabant, netherlands",NULL
+29957,"sydney, new south wales, australia",27
+34150,"bennington, vermont, usa",NULL
+250567,"coventry, rhode island, usa",14
+8960,"auckland, auckland, new zealand",NULL
+79390,"oxford, england, united kingdom",NULL
+126197,"wellington, wellington, new zealand",NULL
+211847,"okahumpka, florida, usa",27
+223672,"lisburn, northern ireland, united kingdom",NULL
+237495,"singapore, singapore, singapore",16
+120329,"lamporecchio, toscana, italy",24
+226775,"richmond, virginia, usa",30
+83383,"san diego, california, usa",67
+170261,"boden, norrbotten, sweden",21
+1177,"milano, lombardia, italy",NULL
+212934,"oceanside, california, usa",28
+106797,"banyumas, alabama, indonesia",NULL
+220964,"newland, north carolina, usa",17
+63295,"thompsontown, pennsylvania, usa",40
+236843,"cascais, n/a, portugal",25
+32076,"calgary, alberta, canada",NULL
+167056,"sarasota (but ybor city has a better name), florida, usa",21
+224522,"london, n/a, united kingdom",30
+60510,"portland, oregon, usa",NULL
+76683,"sevilla, n/a, spain",18
+80402,"washington, dc, usa",NULL
+66278,"sÃ£o paulo, sÃ£o paulo, brazil",26
+240591,"milwaukee, wisconsin, usa",NULL
+277720,"double oak, texas, usa",63
+220500,"bristol, england, united kingdom",24
+7028,"mÃ¼nchen, bayern, germany",29
+117592,"beverly, massachusetts, usa",NULL
+212651,"saint louis, missouri, usa",13
+74961,"valencia, valencia, spain",30
+242718,"brookings, south dakota, usa",NULL
+69020,"silver spring, maryland, usa",26
+111731,"muskegon, michigan, usa",26
+128034,"tigard, oregon, usa",NULL
+227376,"holland, michigan, usa",31
+119362,"dortmund, nrw, germany",NULL
+36521,"farmington, michigan, usa",57
+173225,"galion, ohio, usa",34
+72779,"cagnÃ², trentino alto adige, italy",39
+210155,"dresden, sachsen, germany",37
+120638,"burnaby, british columbia, canada",15
+119421,"toronto, ontario, canada",32
+109081,"easton, pennsylvania, usa",21
